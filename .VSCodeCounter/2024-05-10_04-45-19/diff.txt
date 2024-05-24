@@ -1,0 +1,144 @@
+Date : 2024-05-10 04:45:19
+Directory : c:\Users\ethan\OneDrive\Desktop\Unisara App
+Total : 63 files,  1930 codes, 273 comments, 354 blanks, all 2557 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| C++        |         16 |        548 |        127 |        188 |        863 |
+| XML        |         12 |        507 |         45 |         17 |        569 |
+| Dart       |         11 |        316 |         47 |         61 |        424 |
+| JSON       |          6 |        278 |          0 |          4 |        282 |
+| Gradle     |          3 |         94 |          9 |         20 |        123 |
+| Swift      |          6 |         58 |          7 |         20 |         85 |
+| CMake      |          2 |         39 |          0 |         12 |         51 |
+| HTML       |          1 |         38 |         16 |          6 |         60 |
+| YAML       |          2 |         31 |         22 |         15 |         68 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Properties |          2 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         63 |      1,930 |        273 |        354 |      2,557 |
+| . (Files)                                                                                                 |          4 |         42 |         22 |         22 |         86 |
+| android                                                                                                   |         15 |        234 |         52 |         36 |        322 |
+| android (Files)                                                                                           |          3 |         42 |          2 |          9 |         53 |
+| android\app                                                                                               |         11 |        187 |         50 |         26 |        263 |
+| android\app (Files)                                                                                       |          2 |         84 |          7 |         12 |        103 |
+| android\app\src                                                                                           |          9 |        103 |         43 |         14 |        160 |
+| android\app\src\debug                                                                                     |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                                      |          7 |         97 |         35 |         12 |        144 |
+| android\app\src\main (Files)                                                                              |          1 |         50 |         11 |          3 |         64 |
+| android\app\src\main\res                                                                                  |          6 |         47 |         24 |          9 |         80 |
+| android\app\src\main\res\drawable                                                                         |          1 |         10 |          3 |          3 |         16 |
+| android\app\src\main\res\drawable-v21                                                                     |          1 |         10 |          3 |          3 |         16 |
+| android\app\src\main\res\values                                                                           |          3 |         18 |          9 |          2 |         29 |
+| android\app\src\main\res\values-night                                                                     |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                   |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                                            |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                                    |          1 |          5 |          0 |          1 |          6 |
+| ios                                                                                                       |          8 |        229 |          4 |         13 |        246 |
+| ios\Runner                                                                                                |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                                        |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                                           |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                                |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                             |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                           |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                     |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                       |         10 |        302 |         40 |         54 |        396 |
+| lib (Files)                                                                                               |          1 |         21 |          0 |          9 |         30 |
+| lib\authentication                                                                                        |          2 |         84 |         27 |         21 |        132 |
+| lib\models                                                                                                |          3 |        108 |         12 |         13 |        133 |
+| lib\models\model                                                                                          |          3 |        108 |         12 |         13 |        133 |
+| lib\utils                                                                                                 |          4 |         89 |          1 |         11 |        101 |
+| linux                                                                                                     |          6 |        120 |         33 |         50 |        203 |
+| linux (Files)                                                                                             |          3 |         94 |         24 |         33 |        151 |
+| linux\flutter                                                                                             |          3 |         26 |          9 |         17 |         52 |
+| macos                                                                                                     |          6 |        450 |          5 |         16 |        471 |
+| macos\Flutter                                                                                             |          1 |         12 |          3 |          4 |         19 |
+| macos\Runner                                                                                              |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner (Files)                                                                                      |          2 |         20 |          0 |          6 |         26 |
+| macos\RunnerTests                                                                                         |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                                              |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                           |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                                   |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                                      |          1 |         14 |          7 |          7 |         28 |
+| web                                                                                                       |          2 |         73 |         16 |          7 |         96 |
+| windows                                                                                                   |         11 |        466 |         94 |        149 |        709 |
+| windows\flutter                                                                                           |          3 |         38 |          9 |         17 |         64 |
+| windows\runner                                                                                            |          8 |        428 |         85 |        132 |        645 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                  | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\README.md                                                     | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\analysis_options.yaml                                         | YAML       |          3 |         22 |          4 |         29 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\build.gradle                                      | Gradle     |         55 |          7 |         12 |         74 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\google-services.json                              | JSON       |         29 |          0 |          0 |         29 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\debug\AndroidManifest.xml                     | XML        |          3 |          4 |          1 |          8 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\AndroidManifest.xml                      | XML        |         50 |         11 |          3 |         64 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\drawable-v21\launch_background.xml   | XML        |         10 |          3 |          3 |         16 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\drawable\launch_background.xml       | XML        |         10 |          3 |          3 |         16 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\values-night\styles.xml              | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\values\colors.xml                    | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\values\strings.xml                   | XML        |          6 |          0 |          0 |          6 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\main\res\values\styles.xml                    | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\app\src\profile\AndroidManifest.xml                   | XML        |          3 |          4 |          1 |          8 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\build.gradle                                          | Gradle     |         16 |          0 |          3 |         19 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\gradle.properties                                     | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\gradle\wrapper\gradle-wrapper.properties              | Properties |          5 |          0 |          1 |          6 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\android\settings.gradle                                       | Gradle     |         23 |          2 |          5 |         30 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\firebase.json                                                 | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\RunnerTests\RunnerTests.swift                             | Swift      |          7 |          2 |          4 |         13 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\AppDelegate.swift                                  | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Base.lproj\Main.storyboard                         | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\ios\Runner\Runner-Bridging-Header.h                           | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\authentication\auth.dart                                  | Dart       |         33 |          6 |          5 |         44 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\authentication\auth_service.dart                          | Dart       |         51 |         21 |         16 |         88 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\main.dart                                                 | Dart       |         21 |          0 |          9 |         30 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\models\model\firebase_options.dart                        | Dart       |         70 |         12 |          7 |         89 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\models\model\login_or_register.dart                       | Dart       |         28 |          0 |          5 |         33 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\models\model\message.dart                                 | Dart       |         10 |          0 |          1 |         11 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\utils\constants.dart                                      | Dart       |          3 |          1 |          2 |          6 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\utils\my_button.dart                                      | Dart       |         30 |          0 |          3 |         33 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\utils\my_textfield.dart                                   | Dart       |         33 |          0 |          3 |         36 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\lib\utils\square_tile.dart                                    | Dart       |         23 |          0 |          3 |         26 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\flutter\generated_plugin_registrant.cc                  | C++        |          3 |          4 |          5 |         12 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\flutter\generated_plugin_registrant.h                   | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\flutter\generated_plugins.cmake                         | CMake      |         18 |          0 |          6 |         24 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\main.cc                                                 | C++        |          5 |          0 |          2 |          7 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\my_application.cc                                       | C++        |         82 |         17 |         26 |        125 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\linux\my_application.h                                        | C++        |          7 |          7 |          5 |         19 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\Flutter\GeneratedPluginRegistrant.swift                 | Swift      |         12 |          3 |          4 |         19 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\RunnerTests\RunnerTests.swift                           | Swift      |          7 |          2 |          4 |         13 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\Runner\AppDelegate.swift                                | Swift      |          8 |          0 |          2 |         10 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json | JSON       |         68 |          0 |          1 |         69 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\Runner\Base.lproj\MainMenu.xib                          | XML        |        343 |          0 |          1 |        344 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\macos\Runner\MainFlutterWindow.swift                          | Swift      |         12 |          0 |          4 |         16 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\pubspec.yaml                                                  | YAML       |         28 |          0 |         11 |         39 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\test\widget_test.dart                                         | Dart       |         14 |          7 |          7 |         28 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\web\index.html                                                | HTML       |         38 |         16 |          6 |         60 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\web\manifest.json                                             | JSON       |         35 |          0 |          1 |         36 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\flutter\generated_plugin_registrant.cc                | C++        |         12 |          4 |          5 |         21 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\flutter\generated_plugin_registrant.h                 | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\flutter\generated_plugins.cmake                       | CMake      |         21 |          0 |          6 |         27 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\flutter_window.cpp                             | C++        |         49 |          7 |         16 |         72 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\flutter_window.h                               | C++        |         20 |          5 |          9 |         34 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\main.cpp                                       | C++        |         30 |          4 |         10 |         44 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\resource.h                                     | C++        |          9 |          6 |          2 |         17 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\utils.cpp                                      | C++        |         54 |          2 |         10 |         66 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\utils.h                                        | C++        |          8 |          6 |          6 |         20 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\win32_window.cpp                               | C++        |        210 |         24 |         55 |        289 |
+| c:\Users\ethan\OneDrive\Desktop\Unisara App\windows\runner\win32_window.h                                 | C++        |         48 |         31 |         24 |        103 |
+| Total                                                                                                     |            |      1,930 |        273 |        354 |      2,557 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

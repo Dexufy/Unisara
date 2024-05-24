@@ -1,0 +1,6 @@
+<resources>
+    <string name="facebook_app_id">401511492762297</string>
+    <string name="facebook_client_token">dd94663b4ea4ea8a26022ff7d3814b44</string>
+    <string name="app_name">UniSara</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+</resources>

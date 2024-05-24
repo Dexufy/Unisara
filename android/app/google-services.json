@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513236189073",
+    "project_id": "unisara-ai",
+    "storage_bucket": "unisara-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513236189073:android:53c12b7a9edf459ec12430",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmrf1Ha3M8Qx4RDZi3DE_oiKupq1qj1fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

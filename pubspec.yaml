@@ -1,0 +1,42 @@
+name: unisara_app
+description: An AI powered Chatbot
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  google_generative_ai: ^0.4.1
+  cloud_firestore: ^4.17.2
+  firebase_auth: ^4.19.4
+  firebase_core: ^2.30.1
+  cached_network_image: ^3.1.1
+  intl: ^0.19.0
+  flutter:
+    sdk: flutter
+
+  flutter_login_facebook: ^2.0.0
+  google_sign_in: ^6.2.1
+  http: 1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ic_launcher.png
+    - assets/ic_launcherV2.png
+    - assets/ic_launcherV3.png
+    - assets/newChat.png
+    - assets/facebookLogo.png
+    - assets/googleLogo.png
+    - assets/logoInvert.png
+    - assets/UnisaraKnowledge.json
+    
+
+
+

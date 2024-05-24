@@ -1,0 +1,2979 @@
+[
+  {
+    "university": {
+      "name": "University of Technology Sarawak (UTS)",
+      "location": "Sibu, Sarawak, Malaysia",
+      "established": 2013,
+      "ownership": "Yayasan Sarawak",
+      "focus": "Science and Technology Education",
+      "vision": "To be a global technical university founded on science and technology.",
+      "mission": "To provide world-class educational programs and learning environments to nurture creative and entrepreneurial leaders through a broad yet specialized education in science and technology.",
+      "core_values": ["Commitment", "Integrity", "Caring", "Enterprising", "Green"],
+      "campus": {
+        "address": "No.1 Jalan Universiti, 96000 Sibu, Sarawak, Malaysia",
+        "size": "96.98 acres (39.25 ha)",
+        "hours": {
+          "Tuesday": "8am–5pm",
+          "Wednesday": "8am–5pm",
+          "Thursday": "8am–5pm",
+          "Friday": "8am–5pm",
+          "Saturday": "Closed",
+          "Sunday": "Closed",
+          "Monday": "8am–5pm"
+        },
+        "contact": {
+          "phone": "084-367 300",
+          "fax": "(+6) 084-367301",
+          "email": "enquiry@uts.edu.my"
+        }
+      },
+      "utsleadership": {
+        "chairman": "Annuar Rapaee",
+        "chancellor": "Vacant",
+        "pro_chancellor": "Abang Abdul Rahman Zohari Abang Openg",
+        "vice_chancellor": "Khairuddin Ab Hamid"
+      },
+      "marketing_office": {
+        "location": "Lot 517 Ground Floor Section 6 K.L.T.D 93400 Kuching, Sarawak, Malaysia",
+        "phone": "(+6) 082-422622"
+      },
+      "partnerships": {
+        "international": [
+          {"name": "FPT University, Vietnam", "type": "MoU", "date": "2014-04-14"},
+          {"name": "University of Portsmouth", "type": "MoU", "date": "2014-10-30"},
+          {"name": "Wuyi University, China", "type": "MoU", "date": "2014-11-11"},
+          {"name": "Tallinn University, Estonian", "type": "MoU", "date": "2020-02-11"}
+        ],
+        "local": [
+          {"name": "SOSA Shennong, Singapore", "type": "MoU", "date": "2015-06-23"},
+          {"name": "Untan, Pontianak", "type": "MoU", "date": "2015-08-25"},
+          {"name": "Tsinghua University, China", "type": "MoU", "date": "2020-10-30"}
+        ]
+      },
+      "about": "The University of Technology Sarawak (UTS) is a private institution strongly tied to the state government, aimed at delivering accessible world-class education in science and technology. It was established in 2013 and is fully owned by Yayasan Sarawak. UTS focuses on cultivating innovative and entrepreneurial leaders and provides a comprehensive yet specialized curriculum in science and technology, emphasizing applied methodologies for SCORE-related research and career pathways. It has a sprawling urban campus equipped with state-of-the-art facilities for teaching, learning, and research activities.",
+      "additional_info": "UTS offers a Transfer Degree Programme with several universities worldwide, including Murdoch University (Australia), University of Essex and University of Birmingham (UK), University of Canterbury (New Zealand), and others."
+    }
+  },
+  {
+    "partnerships": {
+      "local_moU": [
+        {"year": 2013, "partner": "International College of Advanced Technology Sarawak"},
+        {"year": 2013, "partner": "Universiti Malaysia Sabah"},
+        {"year": 2014, "partner": "Sabah Institute of Art University Tun Hussein Onn Malaysia"},
+        {"year": 2014, "date": "03 Feb", "partner": "Universiti Malaya"},
+        {"year": 2015, "date": "11 Apr", "partner": "Institut Methodist Pilley"},
+        {"year": 2015, "date": "25 Jun", "partner": "Executive College"},
+        {"year": 2015, "date": "01 Dec", "partner": "Universiti Malaysia Sarawak"},
+        {"year": 2017, "date": "02 Mar", "partner": "Kolej Sunway Kuching"},
+        {"year": 2017, "date": "24 Oct", "partner": "Kolej Teknikal Yayasan Sabah"},
+        {"year": 2018, "date": "28 Mar", "partner": "Kambyan Network, Malaysia"},
+        {"year": 2019, "date": "16 Apr", "partner": "NEM Malaysia"},
+        {"year": 2019, "date": "24 Jun", "partner": "Board of Quantity Surveyors Malaysia (BQSM)"},
+        {"year": 2019, "date": "16 Sep", "partner": "Sibu Shipyards Association"},
+        {"year": 2019, "date": "19 Dec", "partner": "DDL Medical Technology"}
+      ],
+      "local_MoA": [
+        {"year": 2019, "date": "18 Feb", "partner": "Malaysia Automotive Robotics and IOT Institute (MARii)"},
+        {"year": 2019, "date": "20 Mar", "partner": "Simpulan Emas Sdn Bhd and Need Lee Enterprise"}
+      ],
+      "international_MoA": [
+        {"year": 2016, "date": "20 Jul", "partner": "Chiang Mai University, Thailand"},
+        {"year": 2016, "date": "10 Sep", "partner": "Universiti Brunei Darussalam (Student Exchange)"},
+        {"year": 2016, "date": "27 Sep", "partner": "Chang Jung Christian University, Taiwan"},
+        {"year": 2016, "date": "11 Nov", "partner": "Wuyi University (Student Exchange)"},
+        {"year": 2016, "date": "22 Dec", "partner": "National Kaohsiung University of Science and Technology (formerly known as National Kaohsiung University of Applied Science"},
+        {"year": 2018, "date": "23 Oct", "partner": "Kunming University of Science and Technology, China"},
+        {"year": 2019, "date": "26 Jul", "partner": "Nanping Education Bureau"}
+      ],
+      "international_LoU": [
+        {"year": 2013, "date": "01 May", "partner": "University of Auckland, New Zealand"},
+        {"year": 2013, "date": "05 May", "partner": "Phnom Penh Institute of Technology, Cambodia"},
+        {"year": 2014, "date": "05 May", "partner": "Pannasatra University of Cambodia, Cambodia"},
+        {"year": 2014, "date": "25 Jun", "partner": "Politeknik Negeri Samarinda, Indonesia"},
+        {"year": 2015, "date": "13 Nov", "partner": "University of Puthisastra, Cambodia"},
+        {"year": 2015, "date": "16 Jun", "partner": "Guangdong AIB Polytechnic"}
+      ]
+    },
+    "MQA_recognition_approvals_accreditation": {
+      "programmes": {
+        "School_of_Foundation_Studies_(SFS)": [
+          {"title": "MQA- Foundation in Arts"},
+          {"title": "MQA- Foundation in Science"}
+        ],
+        "School_of_Engineering_and_Technology_(SET)": [
+          {"title": "MQA- Bachelor of Civil Engineering"},
+          {"title": "MQA- Bachelor of Engineering Technology in Electrical and Electronic"},
+          {"title": "MQA- Bachelor of Mechanical Engineering"},
+          {"title": "MQA- Bachelor of Food Technology"},
+          {"title": "ISO/IEC 17025 Accreditation – Bachelor of Mechanical Engineering"}
+        ],
+        "School_of_Built_Environment_(SBE)": [
+          {"title": "MQA – Bachelor of Science in Architecture"},
+          {"title": "Board of Architects Malaysia - Bachelor of Science in Architecture"},
+          {"title": "PAQS – Bachelor of Quantity Surveying"}
+        ],
+        "School_of_Business_and_Management_(SBM)": [
+          {"title": "MQA – Bachelor of Accountancy"},
+          {"title": "MQA – Bachelor of Business Administration"}
+        ],
+        "School_of_Computing_and_Creative_Media_(SCM)": [
+          {"title": "MQA – Bachelor of Computer Science in Software Engineering"}
+        ],
+        "School_of_Postgraduate_Studies_(SPS)": [
+          {"title": "MQA – Master of Business Administration"}
+        ]
+      },
+      "recognitionApprovalsAccreditation": {
+        "MOHE": "All programmes at UTS are recognized, approved, and accredited by the Ministry of Higher Education (MOHE) and the Malaysian Qualifications Agency (MQA).",
+        "accreditationProcess": "Programmes at UTS are due for full accreditation when the first cohort of students reaches its final semester. The MQA Panel Assessors audit the programme, and upon compliance with all requirements, MQA grants Full Accreditation.",
+        "provisionalAccreditation": "An exercise by MQA to determine whether a programme has met the minimum quality requirements to start conducting the programme.",
+        "fullAccreditation": "An assessment exercise by MQA to ascertain that the teaching, learning, and all other related activities of a programme provided by a higher education provider have met the quality standards and are in compliance with the Malaysian Qualifications Framework (MQF).",
+        "note": {
+          "fullAccreditedProgrammes": "Programmes that have obtained full MQA accreditation are listed in the Malaysian Qualifications Agency (MQA).",
+          "fullAccreditedProgrammesUrl": "www2.mqa.gov.my/mqr/",
+          "provisionalAccreditedProgrammes": "Provisional accredited programmes are listed separately under this webpage url:",
+          "provisionalAccreditedProgrammesUrl": "www2.mqa.gov.my/pasp/"
+        }
+      }
+    }
+  },
+  {
+    "management_team": {
+      "Vice_Chancellor_President": {
+        "name": "Prof. Datuk Dr. Khairuddin Ab. Hamid",
+        "qualifications": ["PhD Electronic Systems Eng. (Essex)", "MSc. Electrical Eng (Hawaii)", "B. Electrical Eng. (UTM)"]
+      },
+      "Deputy_Vice_Chancellor_Academic": {
+        "name": "Prof. Ir. Ts. Dr. Mohammad Shahril Bin Osman",
+        "qualifications": ["PhD", "B. Eng (Hons) Mechanical Engineering (Loughborough)"]
+      },
+      "Bursar": {
+        "name": "Dr. Rabuan Bin Mantine",
+        "qualifications": ["PhD in Finance (UNIMAS)", "Master of Business Administration (OHIO)", "Adv. Diploma in Accountancy (UiTM)", "Chartered Accountancy (M)"]
+      },
+      "Registrar": {
+        "name": "Mr Jimmy De Rozario @ Abdul Rahman, CHRC, CHRA, AMC",
+        "qualifications": ["BA HR (UPM)", "Dip. Public Admin (UiTM)"]
+      },
+      "Dean_School_of_Engineering_and_Technology": {
+        "name": "Associate Professor Dr. Dayang Siti Hazimmah Binti Ali",
+        "qualifications": ["PhD Civil Engineering in Construction Materials (UMP)", "MSc. in Materials Engineering (USM)", "B. Eng in Materials Engineering (USM)"]
+      },
+      "Dean_School_of_Built_Environment": {
+        "name": "Sr. Dr. Kan Fock Kui",
+        "qualifications": ["PhD Quantity Surveying (UTM)", "MSc in Construction Management (Bath)", "Dip in Technology (Building) (TARC)"]
+      },
+      "Dean_School_of_Business_and_Management": {
+        "name": "Assoc. Prof. Dr Winnie Wong Poh Ming",
+        "qualifications": ["PhD Marketing (UNIMAS)", "MBA (UMS)", "B. Ed (Education with Economics)"]
+      },
+      "Dean_School_of_Computing_&_Creative_Media": {
+        "name": "Ts. Dr. Alan Ting Huong Yong",
+        "qualifications": ["PhD (MMU)"]
+      },
+      "Dean_School_of_Foundation_Studies": {
+        "name": "Mr Muhammad Afif Abdul Rani",
+        "qualifications": ["Master of Science (Hons) in Applied Physics", "Master in Theoretical Physics", "Bachelor of Science (Hons) Applied Physics"]
+      },
+      "Dean_School_of_Postgraduate_Studies": {
+        "name": "Assoc. Prof. Dr. Mohd Zainal Munshid bin Harun",
+        "qualifications": ["Doctor of Business Administration (DBA) (UUM)", "Master of Business Administration (UUM)", "BA (Hons) Business Administration & Commerce, De Montfort University", "Higher National Diploma (Business and Finance), De Montfort University"]
+      },
+      "Director_Centre_for_Quality_Assurance": {
+        "name": "Dr. Sim Siew Ling",
+        "qualifications": ["PhD in Business Management (UTS)", "MBA in Venture Capital Management (UTM)", "Bachelor of Business Administration (Finance) (UPM)"]
+      },
+      "Director_Centre_for_Research_&_Development": {
+        "name": "Assoc. Prof. Dr Mohd Zahid bin Abidin",
+        "qualifications": ["PhD Food Technology (UiTM)", "MSc Foodnology (USM)", "BSc Food Technology (USM)"]
+      },
+      "Director_Centre_of_University_Courses_and_Innovative_Learning": {
+        "name": "Mdm Nadira binti Abdul Rahman",
+        "qualifications": ["MSc in Human Resource Development (UNIMAS)", "Bachelor of Arts in English Language (UPM)"]
+      },
+      "Director_Centre_for_Continuing_Education_&_Professional_Development": {
+        "name": "Assoc. Prof. Dr Ramli Rashidi",
+        "qualifications": ["PhD TEVT (Bremen/UTHM)", "MSc HRD (UPM)", "B. Eng E&E (Brighton, England)"]
+      },
+      "Director_Centre_for_International_Relations": {
+        "name": "Ts. Gary Loh Chee Wyai",
+        "qualifications": ["MSc in Computer Science (UNIMAS)", "Bachelor of Computer Science (Hons) (UNIMAS)"]
+      },
+      "Director_Centre_of_Publication_(UTS_Publisher)": {
+        "name": "Associate Professor Dr. Muhammad Firdaus Abong Bin Abdullah",
+        "qualifications": ["PhD.", "MSc. (Industrial Design), Loughborough University, UK", "B.A. (Art & Design), UiTM"]
+      },
+      "Chief_Librarian_Academic_Resource_Centre": {
+        "name": "Ms Roselind Ak Duat",
+        "qualifications": ["Bachelor Library & Information (UiTM)"]
+      },
+      "Head_of_Corporate_&_Relations_Department": {
+        "name": "Mr Mohd Ian Daim bin Mahmud",
+        "qualifications": ["Bachelor of Corporate Administration (Hons) (UITM)"]
+      },
+      "Head_of_Human_Capital_&_Admin_Department": {
+        "name": "Mdm Nurfaezah binti Sharif",
+        "qualifications": ["Bachelor in Human Resource Development (UNIMAS)"]
+      },
+      "Head_of_Academic_Affairs_&_Registry_Department": {
+        "name": "Mdm Aspa Aida binti Mohamad",
+        "qualifications": ["Bachelor Science in Human Development (UPM)"]
+      },
+      "Head_of_Information_Technology": {
+        "name": "Mr Shukri Abdul Rahman",
+        "qualifications": ["B. Computer Info System Eng (IIUM)"]
+      },
+      "Head_of_Maintenance_&_Security": {
+        "name": "Mr Lau Hwi Sung",
+        "qualifications": ["B. Commerce (Windsor, Canada)"]
+      },
+      "Head_of_Account_Finance": {
+        "name": "Ms Su Yew Ching",
+        "qualifications": ["B. Commerce Major in Accounting (Queensland, Australia)", "CA (MIA)","CPA Australia"]
+      },
+  
+      "Head_of_Student_Development_&_Services": {
+        "name": "Mr Lu Yew King",
+        "qualifications": ["B. Eng Mechanical (Brighton, England)"]
+      },
+      "Head_of_Marketing_&_Student_Recruitment_(Kuching)": {
+        "name": "Mr Lau Wee Ming",
+        "qualifications": ["Master of Science (Marketing)", "Bachelor of Business Management (Marketing)"]
+      },
+      "Head_of_Marketing_&_Student_Recruitment_(Sibu)": {
+        "name": "Mr Shahminan Bin Samion",
+        "qualifications": ["Bachelor of Business Administration Hons Majoring in Human Resource Management"]
+      }
+    },
+    "centre_for_quality_assurance": {
+      "overview": "Centre for Quality Assurance (CQA) was formed in 2013 under the supervision of the first Director, Professor Datin Dr. Napsiah Ismail to oversee, manage, facilitate, monitor and report on the development of academic programmes and enhance the roles of supporting departments towards ensuring high quality delivery of education in UCTS, which now known as UTS. She was succeeded by Professor Dr. Salfarina Abdul Gapor in 2018. In 2019, Assoc. Professor Dr. Rabuan took over the directorship of CQA and continued with the tradition. Centre for Quality Assurance is committed to ensure continuous quality improvement and high quality of teaching and learning through its vision, mission and principle.",
+      "academic_programmes_development": {
+        "history": "UTS academic programmes have been developed in close collaboration with the industries and based on industrial needs. Initially, UTS started with four schools and offered only six academic programmes, two at foundation levels and four at undergraduate levels. These are Foundations in Art and Foundation in Science under the School of Foundation Studies. The School of Business and Management offered Bachelor of Business Administration and Bachelor of Accountancy, while the School of Engineering and Technology offered Bachelor of Engineering Technology in Electrical and Electronic and Civil Engineering. The School of Built Environment initially only offered Bachelor of Quantity Surveying.",
+        "expansion_and_development": "In 2014, more Bachelor programmes were offered including Architecture, Network Computing, Software Engineering, and Mechanical Engineering. In 2015, Electrical Engineering and Food Technology were offered. The School of Postgraduate Studies was formed in 2016, marking a huge milestone for UTS, whereby five postgraduate programmes were introduced, two at PhD level by research and two at Master level by research, of which both are under Business Management and Engineering. Master of Business Administration was offered through coursework in 2016. In 2018, two more Master by coursework were offered – Master of Project Management and Master of Architecture. In 2019, two more Research programmes were offered – Master of Science in Applied Sciences and Doctor of Philosophy (PhD) in Applied Sciences. In 2020, School of Computing and Creative Media introduced two programmes at postgraduate level which are Master and PhD in Computing as well as two programmes at undergraduate level – Bachelor of Arts in Industrial Design and Bachelor of Arts in Creative Media. On the quarter fourth of year 2021, School of Built Environment introduced Bachelor of Arts in Interior Design. Both schools expected to offer another six programmes at Degree, Master and PhD level in year 2023."
+      },
+      "message_from_directors": {
+        "message": "Welcome to UTS CQA website! Greetings from UTS, Sibu, Sarawak. We are proud that we have achieved our goal to be a full-fledged university in 2021. With the new status we continue to work hard in order to be the University of Choice by students, academics, researchers and industry in Sarawak and the region.",
+        "achievements": "In the past years (in 2019) we have achieved our goal on Excellent University Status (Tier 4) in SETARA Rating which encouraged us to strive further to achieve our mission of providing world-class educational programs and learning environment by;",
+        "goals": {
+          "a": "Providing conducive working and learning environment for the students and staff",
+          "b": "Promoting high student engagements",
+          "c": "Supporting student development and alumni",
+          "d": "Ensuring quality teaching and learning"
+        },
+        "approach": "Thus, we do your utmost to support the schools and academic staff to transform teaching and learning through creativity and innovation, making learning a 'fun' and fruitful activities for both academic staff and students. One main important function of CQA is to ensure high quality of teaching and learning, which is in line with the 21st Century new pedagogical approach and emphasising the use of the latest state of the arts technology, in teaching and learning. To achieve this, we have ensured that learning space and environment have good ambience and relevant to current needs in teaching and learning. CQA also conducts internal audits to ensure programmes are ready for external accreditation process, and contents as well for the purpose of continuous quality improvement.",
+        "future_plans": "In the coming future, CQA will implement and monitor ISO 9001 certification for UTS. Facing new tasks and challenges are positive signs of expansion, growth and improvement. The key to a successful institution is the willingness to change and adapt, and most of all putting quality as the priority. The most important goal of CQA is to instil institutional and public confidence in UTS academic standards and I am extremely honoured to be part of the continuous efforts to elevate UTS at the highest level in teaching and learning."
+      }
+    },
+    "offered_schools_and_programmes": {
+      "schools": {
+        "School_of_Postgraduate_Studies": ["Master of Engineering (Research Mode)", "Master of Science in Business Management (Research Mode)", "Master of Business Administration (MBA)", "Master of Project Management", "Master of Architecture", "Master of Science in Applied Sciences (Research Mode)", "Doctor of Philosophy (PhD) in Engineering", "Doctor of Philosophy (PhD) in Business Management", "Doctor of Philosophy (PhD) in Applied Science"],
+        "School_of_Foundation_Studies": ["Foundation in Sciences", "Foundation in Arts"],
+        "School_of_Engineering_and_Technology": ["Bachelor of Civil Engineering (Hons)", "Bachelor of Mechanical Engineering (Hons)", "Bachelor of Electrical Engineering (Hons])", "Bachelor of Food Technology (Hons)", "Bachelor of Engineering Technology in Electrical and Electronic (Hons)"],
+  "School_of_Computing_and_Creative_Media": ["Bachelor of Computer Science (Hons)", "Bachelor of Arts (Hons) in Industrial Design", "Bachelor of Arts (Hons) in Creative Digital Media"],
+  "School_of_Business_and_Management": ["Bachelor of Business Administration (Hons)", "Bachelor of Accountancy (Hons)", "Bachelor of Business (Hons) in Marketing", "Bachelor of Technology Management (Hons)"],
+  "School_of_Built_Environment": ["Bachelor of Quantity Surveying (Hons)", "Bachelor of Science (Hons) in Architecture", "Bachelor of Arts (Hons) in Interior Design"]
+  },
+  "future_programmes": ["Bachelor of Science in Construction and Property Management", "Bachelor of Mobile Game Development (Hons)", "Master of Construction Management and Economics", "Master of Science in Architecture", "Master of Science in Construction Management", "Doctor of Philosophy in Architecture", "Doctor of Philosophy in Construction Management"]
+  },
+  "accreditation": {
+  "status": "Currently, 19 programmes have been fully accredited, 6 programmes are still awaiting full accreditation, and 4 programmes are still under provisional accreditation."
+  },
+  "international_collaborations": {
+  "articulation_degree_programme": "In addition, UTS is also currently collaborating with four universities in the United Kingdom, New Zealand and Australia to offer Articulation Degree Programme."
+  }
+},
+{
+    "CQI_Plan": {
+      "Teaching_Assessment": {
+        "description": "A teaching Assessment is conducted at the end of each semester in order to get feedback from the students on the effectiveness of teaching and learning.",
+        "purpose": [
+          "Monitoring the academic staff based on the set criteria",
+          "Improving the quality of courses and teaching skills of academic staff",
+          "Grooming and sustaining the academic staff to be capable and competent",
+          "Provide avenues for students’ feedback and identify necessary actions taken based on empirical data"
+        ]
+      },
+      "Curriculum_Review": {
+        "description": "Curriculum Review is carried out at the end of each semester and conducted within ten days after the final results have been approved by the Senate.",
+        "data_reviewed": [
+          "Course Coordinator’s reflections",
+          "External Examiner(s) comments",
+          "Industrial Advisory Panel (IAP) comments",
+          "Student Dialogue feedback",
+          "Course Learning Outcomes (CLOs) attainment",
+          "Student workloads in relation to Student Learning Time (SLT)"
+        ],
+        "meeting_chair": "Head of the Programme",
+        "recommendations": "Amendments of individual course’s learning outcomes, syllabus, assessment strategy, and teaching methodology"
+      },
+      "Exit_Survey": {
+        "description": "Exit Survey is conducted after the graduation of every cohort of a programme, commonly after 3 or 4 years. The purpose is to identify students’ views of the programme and their assessments of the overall achievement of the Programme Learning Outcomes (PLOs).",
+        "respondents": "Graduates",
+        "responsibility": "Head of Programmes (HOPs) for taking necessary actions based on the findings"
+      }
+    },
+    "links": {
+      "Malaysian_Qualifications_Agency": "www.mqa.gov.my/",
+      "Ministry_of_Education": "https://www.moe.gov.my",
+      "Malaysia_Board_of_Technologists": "https://www.mbot.org.my/",
+      "Engineering_Accreditation_Council_Malaysia": "http://www.eac.org.my/web/index.html",
+      "Board_of_Architects_Malaysia": "http://www.lam.gov.my/",
+      "Board_of_Quantity_Surveyors_Malaysia": "https://www.bqsm.gov.my/",
+      "Student_Learning_Time_Calculation": "https://uctscqa.azurewebsites.net/"
+    },
+    "CQA_Staff": [
+      {
+        "name": "Dr. Sim Siew Ling",
+        "position": "Director",
+        "extension": "360",
+        "email": "simsiewling",
+        "qualifications": "Doctor of Philosophy in Business Management (UTS), Master of Business Administration (Venture Capital Management) (UTM), Bachelor of Business Administration (Finance) (UPM)"
+      },
+      {
+        "name": "Nurul Afiqah Binti Ibrahim",
+        "position": "Executive",
+        "extension": "370",
+        "email": "nurul.afiqah",
+        "qualifications": "Corporate Master of Business Administration (UNIMAS), Bachelor in International Marketing (UMS)"
+      }
+    ],
+    "CEPD": {
+      "about": {
+        "description": "The Centre for Continuing Education and Professional Development (CEPD) was established on 12th April 2016 and operates business at Block 8, 1st Floor, No.1, Jalan Universiti, 96000 Sibu Sarawak, with an Electrical Installation Workshop at Unicity (near Li Hua Hotel).",
+        "affiliations": [
+          "Registered with Human Resources Development Fund (HRDF) as a training provider (No Siri: 1183312A)",
+          "Corporate Affiliate Member of The Chartered Institute of Logistics & Transport (Membership Number: OM0149)",
+          "Accredited Training and Examination Center for Wireman G1, G2, and Chargeman L1 (issued by The Ministry of Public Utilities Sarawak)"
+        ]
+      },
+      "capacity": [
+        "Provide professional training programs / short-courses in collaboration with internal expertise and external training providers",
+        "Organise competency programs and professional courses / certifications for graduates to be more competent and marketable"
+      ],
+      "contact": {
+        "director": {
+          "name": "Assoc. Prof. Dr. Ramli bin Haji.Rashidi, KMN, PBS",
+          "position": "Director",
+          "tel": "(DL): 084-367537",
+          "fax": "Fax: 084-367301",
+          "email": "ramli.rashidi"
+        }
+      }
+    }
+  },
+  {
+    "CEPD_Events": [
+      {
+        "event_type": "MEMORANDUM OF UNDERSTANDING (MOU) SIGNING",
+        "partners": "University of Technology Sarawak and DHS Hospitality Academy Sdn Bhd",
+        "date": "4th December 2021",
+        "venue": "University of Technology Sarawak (UTS)",
+        "delegates": {
+          "UTS": "Prof Datuk Dr. Khairuddin Ab Hamid (Vice-Chancellor, UTS)",
+          "DHS": "Assoc Prof Ts Dr Ramli bin Haji Rashidi (Director, CEPD)",
+          "special_guest": "Datuk Amar Michael Manyin Anak Jawong (Former Minister of Education, Science and Technological Research Sarawak)"
+        },
+        "objective": "Collaboration to offer the Certificate of Completion in Hospitality Operations (CCHO). Students who have completed the CCHO programme can pursue their diploma studies in Hospitality and Tourism Management with TMC Academy Singapore."
+      },
+      {
+        "event_type": "MEMORANDUM PERSEFAHAMAN",
+        "partners": "Universiti Teknologi Sarawak (UTS) and Jabatan Pembangunan Kemahiran, Malaysia (JPK)",
+        "date": "4 Disember 2021",
+        "venue": "Universiti Teknologi Sarawak (UTS)",
+        "delegates": {
+          "UTS": "Prof Datuk Dr. Khairuddin Ab Hamid (Vice-Chancellor, UTS)",
+          "JPK": "Assoc Prof Ts Dr Ramli bin Haji Rashidi (Director, CEPD)",
+          "special_guest": "Datuk Amar Michael Manyin Anak Jawong (Former Minister of Education, Science and Technological Research Sarawak)"
+        },
+        "objective": "Kerjasama pembangunan program latihan kemahiran dan penyelidikan strategic bagi meningkatkan kualiti sumber manusia dalam bidang TVET dan melahirkan tenaga kerja mahir bertaraf dunia."
+      },
+      {
+        "event_type": "MEMORANDUM OF UNDERSTANDING (MOU)",
+        "partners": "University of Technology Sarawak (UTS) and BSI Services Malaysia Sdn Bhd (BSI)",
+        "date": "4th December 2021",
+        "venue": "University of Technology Sarawak (UTS)",
+        "delegates": {
+          "UTS": "Prof Datuk Dr. Khairuddin Ab Hamid (Vice-Chancellor, UTS)",
+          "BSI": "Assoc Prof Ts Dr Ramli bin Haji Rashidi (Director, CEPD)",
+          "special_guest": "Datuk Amar Michael Manyin Anak Jawong (Former Minister of Education, Science and Technological Research Sarawak)"
+        },
+        "objective": "To explore common and fundamental objectives and benefits in the field of Building Information Modelling (BIM) and ISO Standards."
+      }
+    ],
+    "CEPD_Staff": [
+      {
+        "name": "Assoc Prof Ts Dr. Ramli Rashidi, KMN, PBS",
+        "position": "Director, CEPD & Assoc Prof SET",
+        "extension": "537",
+        "email": "ramli.rashidi",
+        "qualifications": "PhD TEVT (Bremen/UTHM), MSc HRD (UPM), B.Eng E&E (Brighton)"
+      },
+      {
+        "name": "Edwin bin Mising Udup",
+        "position": "Executive",
+        "extension": "538",
+        "email": "edwin",
+        "qualifications": "Bachelor of Arts (Hons) Leadership, Diploma in Sport Management"
+      },
+      {
+        "name": "Khairunnisa binti Mohamad Yunus",
+        "position": "Administrative Officer",
+        "extension": "539",
+        "email": "khairunnisa.yunus",
+        "qualifications": "Bachelor of Applied Arts (Hons) Art Management"
+      }
+    ]
+  },
+  {
+    "AcademicResourceCentre": {
+      "About": {
+        "EstablishmentYear": 2013,
+        "InitialCampus": "Kolej Laila Taib (KLT)",
+        "CurrentCampus": "University of Technology Sarawak (UTS)",
+        "RenamedYear": 2019,
+        "Description": "The ARC is an iconic support system for teaching and learning at the university. The ARC's collections have grown significantly from 313 books in 2013 to 13,123 books, 1,768 e-books, 4 online databases, and 2 online journals by 2023. Additionally, ARC subscribes to various online newspapers and magazines.",
+        "Location": "Next to the Student Development and Services Department (SDSD)",
+        "SeatingCapacity": 500,
+        "Facilities": [
+          "Computers for accessing online materials and e-books",
+          "Computers for assignments",
+          "Five discussion rooms for group discussions and meetings"
+        ]
+      },
+      "OpeningHours": {
+        "MondayToFriday": "8 am – 8 pm",
+        "Saturday": "8 am – 12 pm",
+        "Closed": ["Sundays", "Public Holidays"]
+      },
+      "Staff": [
+        {
+          "type": "HeadOfDepartment",
+          "name": "Roselind Anak Duat",
+          "extension": 381,
+          "email": "roselind@uts.edu.my"
+        },
+        {
+          "type": "Executive",
+          "name": "Andreas Rentap Anak Dau",
+          "extension": 384,
+          "email": "andreas@uts.edu.my"
+        },
+        {
+          "type": "Executive",
+          "name": "Adjibah BT. Affendy",
+          "extension": 383,
+          "email": "adjibah@uts.edu.my"
+        },
+        {
+          "type": "SeniorClerk",
+          "name": "Faris Bin Ideris",
+          "extension": 385,
+          "email": "faris@uts.edu.my"
+        },
+        {
+          "type": "LibraryAssistant",
+          "name": "Mohd Nor Amira Bin Amiruddin",
+          "extension": 386,
+          "email": "mohd.noramira@uts.edu.my"
+        },
+        {
+          "type": "Clerk",
+          "name": "Zusika Erra Anak Eddy",
+          "extension": 385,
+          "email": "zusika.erra@uts.edu.my"
+        },
+        {
+          "type": "Clerk",
+          "name": "Dara Claudia Anak Jemat",
+          "extension": 386,
+          "email": "dara.claudia@uts.edu.my"
+        }
+      ]
+    },
+    "CentreOfPublication": {
+      "About": {
+        "Description": "UTS Publisher is the core entity for publishing activities at the University of Technology Sarawak (UTS). It is responsible for implementing publication policies to enhance intellectual work among UTS staff and ensuring the quality, uniformity, and quantity of university publications.",
+        "Roles": [
+          "Encourages writing and publishing among UTS staff",
+          "Serves as the administrative secretariat for the UTS Publisher Committee",
+          "Coordinates the evaluation, editing, design, and printing of scholarly works"
+        ]
+      },
+      "PublicationGuidelines": {
+        "FinalManuscript": "Must be the final version, not a draft",
+        "PageCount": "Minimum of 49 pages as prescribed by UNESCO",
+        "Font": "Times New Roman or Arial",
+        "FontSize": {
+          "Title": "16-point",
+          "Heading": "14-point",
+          "Text": "12-point"
+        },
+        "Format": "Microsoft Word, submitted via soft copy",
+        "Style": "American Psychological Association (APA)",
+        "TurnitinReport": "Plagiarism report should not exceed 20%",
+        "ContentRequirements": [
+          "Book title",
+          "Half Book Title",
+          "Copyright page",
+          "Table of contents",
+          "Preface",
+          "Foreword (optional)",
+          "Acknowledgement",
+          "Abbreviations",
+          "List of tables/figures",
+          "Text material",
+          "References/Bibliography",
+          "Index",
+          "Blurb",
+          "All illustrations and copyright permission letters if necessary"
+        ]
+      },
+      "Journals": [
+        {
+          "name": "Borneo Journal of Science and Technology",
+          "description": "An international peer-reviewed and open-access academic research journal in science and technology fields. Published biannually (January and July) by UTS Publisher. Welcomes high-quality original papers, empirical studies, review articles, case reports, conference papers, technology reports, book reviews, commentaries, and news.",
+          "language": "English",
+          "frequency": "Biannually"
+        },
+        {
+          "name": "Borneo Journal of Social Sciences & Humanities",
+          "description": "An online peer-reviewed international research journal covering multidisciplinary topics in social sciences and humanities. Publishes original research, surveys, reviews, and theoretical papers that contribute significantly to knowledge and development. Provides an international platform for scholars and researchers.",
+          "language": "English",
+          "frequency": "Biannually"
+        }
+      ],
+      "ContactInformation": {
+        "Email": "utspublisher@uts.edu.my",
+        "PhoneNumber": "(+6) 084-367382",
+        "Location": "No. 1, Jalan University, 96000 Sibu, Sarawak"
+      }
+    }
+  },
+  {
+    "CentreForInternationalRelations": {
+      "About": {
+        "Description": "Welcome to the Centre for International Relations (CIR) at the University of Technology Sarawak (UTS). Our mission is to ensure a seamless integration for international students into the UTS community, from application through to graduation. As your one-stop centre, we provide essential services for a smooth transition to university life, including visa arrangements, medical insurance, student welfare, and counselling. Committed to UTS’s global perspective, CIR supports your journey every step of the way.",
+        "Milestones": {
+          "CertifiedCourses": 30,
+          "MultipleFacilities": 20,
+          "Learners": 10000
+        }
+      }
+    },
+    "DesignAndTechnologyCentre": {
+      "About": {
+        "Description": "The Design and Technology Centre (DeTeC) was rebranded from Drone Research and Application Centre (DRAC) since 2022 as a research centre at the School of Computing and Creative Media, University of Technology Sarawak. The move was done to cover a wider research area which focuses on Design, Computing, Unmanned Aerial System and Science, technology, engineering, and mathematics (STEM).",
+        "Quote": "Where you innovate, how you innovate, and what you innovate are design problems. — Tim Brown, CEO and president of IDEO"
+      },
+      "TeamMembers": [
+        {
+          "type": "Head",
+          "name": "Ts. Daniel Tan Yong Wen",
+          "expertise": ["Drone Operation and Mission Control", "Computational Thinking", "Knowledge Management", "Information System"]
+        },
+        {
+          "type": "DeputyHead",
+          "name": "Ts. Ahmad Lutfee Bin Mohd Lasa",
+          "expertise": ["Industrial Design", "Furniture Design", "Design Education", "Design Thinking"]
+        },
+        {
+          "type": "DeputyHead",
+          "name": "Ts. Dr. Nuraini Binti Daud",
+          "expertise": ["Designing for Behaviour Change", "Designing for Circular Economy", "User-Centred Design", "Interaction Design"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Ts. Dr. Chew Kim Mey",
+          "expertise": ["Ontology Learning", "Biomedical Engineering", "Phantom Development"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Ts. Dr. Alan Ting Huong Yong",
+          "expertise": ["Computer Vision & Image Processing", "Machine Learning"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Chang Wui Lee",
+          "expertise": ["Artificial Intelligence", "Fuzzy Logic"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Eileen Ong Sing Ling",
+          "expertise": ["Education Technology"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Jackie Ting Tiew Wei",
+          "expertise": ["Computer Vision & Image Processing", "Machine Learning"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Dr. Yiiong Siew Ping",
+          "expertise": ["Theory & Computation of Fluid Dynamics", "Mathematical Modelling of Dynamical Systems"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Kee Keh Kim",
+          "expertise": ["Building Energy Efficiency & Green Building Analysis", "Marine Hybrid Systems", "Wireless Sensor Network"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Dr. Molood Seifi",
+          "expertise": ["Sustainable Architecture", "Human-Environmental Interaction", "Algorithmic Design", "Optimization of Heterogeneous Data"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Anli Sherine",
+          "expertise": ["Digital Processing", "Data Mining", "Big Data"]
+        },
+        {
+          "type": "Member",
+          "name": "Huhammad Asraf Bin Zulkarnain"
+        },
+        {
+          "type": "Researcher",
+          "name": "Cherry Ling Yieng Siang",
+          "expertise": ["Ergonomics", "User Experience Design"]
+        },
+        {
+          "type": "Researcher",
+          "name": "Marcella Peter",
+          "expertise": ["Computer Vision", "Image Processing", "Mobile Game-Based Learning"]
+        }
+      ],
+      "Services": {
+        "Equipment": ["Drones", "3D Printers", "STEM"],
+        "Facilities": ["DRAC Lab", "Advance Cyber Security Knowledge Lab"],
+        "Services": ["Drone Operation", "Drone Mission Control", "Drone Aerial Mapping", "STEM Activity"]
+      },
+      "ResearchProjects": [
+        {
+          "title": "Improvisation in Child Dyslexia Using Kinect-Based Human Motion Analysis System",
+          "funding": "UCTS Research Grant (URG)"
+        },
+        {
+          "title": "UCTS Spraying Drone for Disinfection and Cleaning Activities",
+          "funding": "UTS UPRG"
+        },
+        {
+          "title": "The Study of Using Automatic Dependent Surveillance-Broadcast Technology for Managing the Traffic of Unmanned Aerial Vehicles of Sarawak Airspace",
+          "funding": "SDEC"
+        },
+        {
+          "title": "Consultancy Project on ICT and Telecommunication Masterplan Study for Damai Peninsular Area"
+        },
+        {
+          "title": "Behavioral Analytics and Real-time Tracking of Patients Using IoT and RFID",
+          "funding": "APT fund, member"
+        },
+        {
+          "title": "Young Innovators Challenge (YIC) Programme and Junior Innovate (JI) Programme"
+        },
+        {
+          "title": "Raspberry Pi Crash Course for School Teachers Session 1 & 2"
+        },
+        {
+          "title": "UAV Programming with Scratch, a collaboration between DeTeC and Sarawak Digital Economy Corporation Berhad (SDEC)"
+        }
+      ]
+    }
+  },
+  {
+    "Centre": {
+      "name": "Student Development & Service Centre (SDSC)",
+      "description": "SDSC provides support services and other development opportunities to UTS students during their stay at the university.",
+      "areasCovered": [
+        "Assistance on study loans with PTPTN, MARA, Yayasan Sarawak, Sarawak Energy and other agencies",
+        "Management and administration of student accommodation",
+        "Student Leadership and Entrepreneurial Development",
+        "Student Activities and Development",
+        "Student Alumni",
+        "Student Counselling Services"
+      ],
+      "staff": {
+        "AdminAndStudentResidential": {
+          "Clerk": [
+            {
+              "name": "Mohd Riyad Bin Kailan",
+              "phone": "084367595",
+              "email": "mohd.ryad@uts.edu.my"
+            },
+            {
+              "name": "Hazman Bin Mohammad",
+              "phone": "084267597",
+              "email": "hazman@uts.edu.my",
+              "role": "Hostel Warden"
+            }
+          ],
+          "SeniorExecutive": [
+            {
+              "name": "David Ling Chai Kiong",
+              "phone": "084367596",
+              "email": "david@uts.edu.my"
+            }
+          ]
+        },
+        "FinancialAssistanceAndWelfare": {
+          "SeniorExecutive": [
+            {
+              "name": "Fadhilah Binti Idris",
+              "phone": "084367375",
+              "email": "fadhilah@uts.edu.my"
+            }
+          ],
+          "Clerk": [
+            {
+              "name": "Liza Binti Yusuf",
+              "phone": "084367377",
+              "email": "liza@uts.edu.my"
+            }
+          ]
+        },
+        "CulturalActivitiesWelfareAndLiaison": {
+          "Executive": [
+            {
+              "name": "Alden Anak Allen",
+              "phone": "084367373",
+              "email": "alden@uts.edu.my"
+            }
+          ]
+        },
+        "CounselingAndCareerGuidance": {
+          "CounselorExecutive": [
+            {
+              "name": "Hamidah Binti Rapae",
+              "phone": "084367378",
+              "email": "hamidahrapae@uts.edu.my"
+            },
+            {
+              "name": "Limena Anak Ugak",
+              "phone": "084367598",
+              "email": "limena@uts.edu.my"
+            }
+          ]
+        },
+        "AlumniCareerAndEntrepreneurship": {
+          "Executive": [
+            {
+              "name": "Ivan Sia Sien Wei",
+              "phone": "084367376",
+              "email": "ivan@uts.edu.my"
+            }
+          ]
+        },
+        "StudentSportAndFacilities": {
+          "Executive": [
+            {
+              "name": "Saiful Bin Norahim",
+              "phone": "084367595",
+              "email": "saiful@uts.edu.my"
+            }
+          ]
+        },
+        "StudentActivityAndDevelopment": {
+          "SeniorExecutive": [
+            {
+              "name": "Chu Yieng Ni",
+              "phone": "084367372",
+              "email": "chuyiengni@uts.edu.my"
+            }
+          ],
+          "Executive": [
+            {
+              "name": "Shawn Koh",
+              "phone": "084367374",
+              "email": "shawn.koh@uts.edu.my"
+            }
+          ]
+        }
+      },
+      "campusLife": {
+        "2024": [
+          {
+            "event": "February Intake Undergraduate Orientation '24",
+            "link": "https://youtu.be/878txuLyx_0"
+          }
+        ],
+        "2023": [
+          {
+            "event": "UTS Ball Night '23",
+            "link": "https://youtu.be/K1903WNLtqg"
+          },
+          {
+            "event": "Foundation Orientation 2023 November Intake",
+            "link": "https://youtu.be/gNVoyJLjJcY"
+          },
+          {
+            "event": "Convo Carnival 2023",
+            "link": "https://youtu.be/0RdVi-fgaJg"
+          },
+          {
+            "event": "Graduation Night '22",
+            "link": "https://youtu.be/xcfy3xSIdDY"
+          },
+          {
+            "event": "Sarawak Day 2023 from SDSC",
+            "link": "https://youtu.be/UCqzW3k1WsU"
+          },
+          {
+            "event": "UTS Student's Stall @ BCF 2023, 14-23.07.2023",
+            "link": "https://youtu.be/ERPnbrtolOo"
+          },
+          {
+            "event": "UTS Sayang Fiesta 2023",
+            "link": "https://youtu.be/oGK_uzGLSy8"
+          },
+          {
+            "event": "Peranti Siswa Distribution",
+            "link": "https://youtu.be/ewwXYZdBzPA"
+          },
+          {
+            "event": "SC Appreciation & Installation",
+            "link": "https://youtu.be/FTITOqSZV4A"
+          },
+          {
+            "event": "Orientation Undergraduate Feb Intake",
+            "link": "https://youtu.be/VIeu4pyI_ds"
+          },
+          {
+            "event": "Student Council Team Building",
+            "link": "https://youtu.be/8aUkoz2INo4"
+          }
+        ],
+        "2022": [
+          {
+            "event": "Fresher Fair December",
+            "link": "https://youtu.be/t6iNe_PdMI4"
+          },
+          {
+            "event": "Starry Ball Night",
+            "link": "https://youtu.be/kGs0owiBzAQ"
+          },
+          {
+            "event": "Undergraduate September Intake",
+            "link": "https://youtu.be/yV3hfKwQtNM"
+          },
+          {
+            "event": "Student Council’s Community Trip",
+            "link": "https://youtu.be/SXisM2VeR8I"
+          },
+          {
+            "event": "Foundation November Intake",
+            "link": "https://youtu.be/G2Epy8j1GRo"
+          },
+          {
+            "event": "Youth Sport Carnival",
+            "link": "https://youtu.be/ZCdrDeOCDZA"
+          },
+          {
+            "event": "Cheque Presentation (Nada)",
+            "link": "https://youtu.be/V70YfRjzsOs"
+          },
+          {
+            "event": "Welcoming Home Nadrah (Nada)",
+            "link": "https://youtu.be/GLh83YkUpsA"
+          },
+          {
+            "event": "Dota 2, Women, Commonwealth Esports Championships",
+            "link": "https://youtu.be/VIBi5cNkXeo"
+          },
+          {
+            "event": "MOU between UTS and Hock Peng",
+            "link": "https://youtu.be/4FgKUapcA-E"
+          },
+          {
+            "event": "Registration & Orientation June",
+            "link": "https://youtu.be/tkdOFXIcabU"
+          },
+          {
+            "event": "Special Olympics Volunteers",
+            "link": "https://youtu.be/JvMIa8lCZBo"
+          },
+          {
+            "event": "UTS Sayang",
+            "link": "https://youtu.be/pJxOVyJxmNU"
+          },
+          {
+            "event": "UTS Graduation Night",
+            "link": "https://youtu.be/r6mNw-W0fHs"
+          },
+          {
+            "event": "UTS Fresher Fair",
+            "link": "https://youtu.be/t_Px6FAKc3M"
+          },
+          {
+            "event": "Student Council Team Building",
+            "link": "https://youtu.be/Ll3wcxcmITU"
+          },
+          {
+            "event": "UTS February Intake Orientation",
+            "link": "https://youtu.be/Hp86nYLIHmo"
+          },
+          {
+            "event": "SC Installation Ceremony 2021/2022",
+            "link": "https://youtu.be/mKNZApH8c8o"
+          },
+          {
+            "event": "UTS Badminton Competition",
+            "link": "https://youtu.be/ycUhse_wWI8"
+          }
+        ]
+      },
+      "CounselingAndCareerGuidance": {
+        "Counseling": {
+          "description": "Counseling is a collaborative effort between the counsellor and the client. Professional counselors help clients identify goals and potential solutions to problems which cause emotional turmoil; seek to improve communication and coping skills; strengthen self-esteem; and promote behavior change and optimal mental health."
+        },
+        "CareerGuidance": {
+            "description": [
+                "The word “guidance” originated back in the 1530s, and is defined as the process of directing conduct. Career guidance can be defined as a comprehensive, developmental program designed to assist individuals in making and implementing informed educational and occupational choices. In simple words, it is a journey on which people develop to make mature and informed decisions. It is the act of guiding or showing the way; it is the act of seeking advice.",
+                "Career guidance is the guidance given to individuals to help them acquire the knowledge, information, skills, and experience necessary to identify career options, and narrow them down to make one career decision. This career decision then results in their social, financial, and emotional well-being throughout."
+              ],
+              "applyCounselingConsultationLink": "https://forms.gle/LrpFeb87aiGToW4w6",
+              "customerComplaintFormLink": "https://forms.gle/aQH3skamFCsyBfKK8"
+            }
+          },
+          "StudentCouncil": {
+            "vision": "Foster a vibrant, inclusive student community prioritizing academic excellence, personal growth, and cultural diversity. Empower students through effective representation, a conducive learning environment, and impactful initiatives for a holistic university experience.",
+            "mission": "Be a dynamic, student-centric organisation championing well-being and aspirations. Cultivate belonging, instil leadership, and foster innovation shaping individuals who positively impact society.",
+            "initiatives": {
+              "Instagram": "https://www.instagram.com/utsstudentcouncil/",
+              "Facebook": "https://www.facebook.com/utsstudentcouncil2021?mibextid=ZbWKwL",
+              "TikTok": "https://www.tiktok.com/@uts.student.council?_t=8irUvoTKzai&_r=1",
+              "YouTube": "https://www.youtube.com/channel/UCsX3noD2q3AVoFr17qCljKQ",
+              "StudentComplainForm": "https://docs.google.com/forms/d/e/1FAIpQLSfEGxfHbzmXSEsZ07f0FzGgkU61IeaXl-3PHo0tEOzLmOhlrA/viewform",
+              "EntertainmentGuidelineConcert": "https://drive.google.com/file/d/11GfER2n8dm4x7yHAZ_lzuMueJuuY1Pe5/view",
+              "UTSClubGuidelines": "https://drive.google.com/file/d/125yKGG57mMKb2YzPqmScsCAzjvX2vQwk/view?usp=sharing"
+            }
+          },
+          "FinancialAidsAndWelfare": {
+            "ScholarshipsAndLoansUnit": {
+              "description": [
+                "The Scholarships & Loans Unit administers issues regarding the welfare and finances of students in obtaining loans/scholarships or other assistance so that students are able to continue their studies despite economic burdens.",
+                "The unit also aids students in dealing with documents regarding loans/sponsorships or aid in ensuring the process in completing related dealings is carried out with more ease and completeness."
+              ],
+              "links": {
+                "UTSBursaryScheme": "https://sdsc.uts.edu.my/financial-assistance/uts-bursary-scheme-2023/",
+                "Scholarship": "https://sdsc.uts.edu.my/financial-assistance/scholarship/",
+                "FinancialAid": "https://sdsc.uts.edu.my/financial-aid-2023/",
+                "FormEPFPartialWithdrawal": "https://www.kwsp.gov.my/documents/d/guest/contoh_format_surat_pengesahan_pendaftaran_pelajar_dari_iptv01_07_2017_20-07-2017?preview",
+                "ImmigrationPurpose": "https://www.imi.gov.my/wp-content/uploads/2022/03/IM14.pdf"
+              }
+            }
+          }
+        }
+      },
+      {
+        "UTS": {
+          "LeadershipExcellenceAward": {
+            "description": {
+              "about": [
+                "University of Technology Sarawak (UTS) is an institution of higher learning that focuses on the development of technical human resources for the Sarawak Corridor of Renewable Energy (SCORE). Situated in Sibu, one of the main gateways into SCORE, UTS campus is equipped with the latest state-of-the-art facilities for teaching learning and research activities.",
+                "Besides academic excellence, UTS also emphasizes the development of soft-skills among students. This is in line with its effort to produce wholesome graduates for the future.",
+                "In line with that Leadership Excellence Award (LEAd) is introduced, as a system of awarding points to students for their involvement in non-academic activities. It is introduced to encourage them to play active roles in co-curricular activities, as knowledge and experiences gained from it are crucial for students when they leave the university."
+              ],
+              "objective": [
+                "Serving in the committee as well as being members",
+                "Joining competition in the campus as well as outside",
+                "Organizing event or activity within campus as well as outside"
+              ],
+              "importance": [
+                "It gives added value to academic results",
+                "It makes graduates more marketable",
+                "The point is used by industry to assess employability",
+                "The points are used by UTS to assess opportunity for scholarship"
+              ],
+              "guidelines": [
+                "Application done in 7 days before the event start date.",
+                "Submission done within 14 days after the event end date.",
+                "Event with entertainment based (celebration party, gathering or trip), personal involvement in outside activities without UTS acknowledgement and incomplete or inadequate events are NOT entitled to claim LEAd points."
+              ],
+              "gradingSystem": {
+                "transcriptCheck": "Students can check their LEAd points transcript in the Oculus system.",
+                "award": "The award will be given based on their achievement."
+              },
+              "awardLevels": {
+                "platinum": "8.5 - Platinum",
+                "gold": "7.5 - Gold",
+                "silver": "6.5 - Silver",
+                "bronze": "5.5 - Bronze"
+              }
+            }
+          },
+          "StudentAccommodation": {
+            "description": {
+              "aboutUTSHostel": [
+                "Greeting from University of Technology Sarawak (UTS), Student Development and Services Centre (SDSC), Accommodation Unit offered hostel on campus and off campus for our students especially those from outside Sibu."
+              ],
+              "onCampus": {
+                "priority": "Priority is given to First Year Foundation and Undergraduates students based on Hostel Policy 1.2 & 1.3",
+                "description": [
+                  "The UTS hostel consists of 2 blocks of apartments (male & female), strategically located within the campus. Each apartment consists of 14 levels with a capacity of 378 students. All 2 blocks together will be able to accommodate about 756 students.",
+                  "Room Type Offered: Twin-sharing Room only"
+                ]
+              },
+              "offCampus": [
+                {
+                  "name": "Unicity Hostel (Jalan Wawasan)",
+                  "priority": "Priority is given to Second (2nd) Year onwards students.",
+                  "description": [
+                    "Unicity Hostel located at Jalan Wawasan, Sibu (Next to the Sg. Merah Police Station), is a new accommodation for UTS students. Situated in a commercial centre, about 1.5km from UTS Campus, the hostel can accommodate about 460 students.",
+                    "Room Type offered: Twin-sharing or Triple-sharing Room only"
+                  ]
+                },
+                {
+                  "name": "Unicity Shoplot (Jalan Wawasan)",
+                  "priority": "Priority is given to Second (2nd) Year onwards students.",
+                  "description": [
+                    "Unicity Shop lot located at Jalan Wawasan, Sibu (Behind Medan Supermarket), is a new accommodation for UTS students. Situated in a commercial centre, about 1.5km from the UTS Campus, the hostel can accommodate about 192 students. The 1st floor is for single bed fan room while the 2nd floor is for a single air-con room.",
+                    "Room Type offered: Single Room only"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "HostelPolicy": {
+          "definitions": {
+            "priority": [
+              {
+                "title": "All students, staff, or, visitors who stay in the UTS hostel are referred to as residents."
+              },
+              {
+                "title": "UTS Hostel on campus room priority open for:",
+                "subpoints": [
+                  "First Year non-Sibu students (If room still available, only open for Final Year non-Sibu students)",
+                  "Final Year non-Sibu students (If room still available, only open for staying far (more than 20KM) from Campus but subject to room availability after registration week)",
+                  "* Priority ranking from top to bottom"
+                ]
+              }
+            ]
+          },
+          "tenancyAndRefund": {
+            "minimumTenancy": "The minimum tenancy is for a period of one (1) full-term semester.",
+            "entryFees": [
+              "A new student who first applies for the hostel or returning student who has a hostel withdrawal record before are required to pay First (1st) Entry Fees (1-month hostel deposit with semester hostel fees) as per stipulated in UTS Hostel Rate.",
+              "Returning hostel students are required to pay semester hostel fees only."
+            ],
+            "paymentDeadline": "All the hostel payments should be done within the first two (2) study weeks of that particular semester as per stipulated in the academic calendar.",
+            "financialAssistance": "Students who are tied with financial assistance organizations such as PTPTN, Yayasan Sarawak, Sarawak Energy Berhad (SEB), etc. need to make immediate payment once the money has been released from the organization. All outstanding fees due must be made within the first two (2 months) of that particular semester as per stipulated in the academic calendar."
+          },
+          "hostelProperties": {
+            "keysAndRoomCard": "The keys and hostel room card are the property of UTS. They are non-transferable and no unauthorized duplication is allowed. Any resident found to have violated the above will be subjected to disciplinary action."
+          },
+          "applicationAndAllocation": {
+            "approvalProcess": [
+              "Approval of Hostel renewal for the following semester is subject to:",
+              "At the end of every semester, SDSC will email all hostel students to apply for hostel status for the following semester.",
+              "Hostel students who did not apply any hostel application for the following semester within the specified deadline:"
+            ],
+            "roomChange": [
+              "Resident are not permitted to change their room without prior approval from SDSC.",
+              "SDSC reserve the right to re-allocate the resident to a different room due to room configuration requirement."
+            ]
+          },
+          "hostelMeritDemeritSystem": {
+            "objectives": [
+              "The objectives of this system are to:",
+              "Criteria Basis:"
+            ]
+          },
+          "healthRequirements": {
+            "occupantCertification": "Occupant (student/ staff) must be certified as being in good health and free from mental illness, contagious/ infectious diseases, or illness that will adversely affect themselves and others’ life on the campus (including hostel)."
+          },
+          "hostelCommittee": {
+            "objective": [
+              "The objective of the hostel committee:"
+            ],
+            "criteria": [
+              "Criteria for Hostel Committee:"
+            ]
+          },
+          "managementAuthority": {
+            "policyAmendment": "Student Development & Services Centre, Hostel Unit reserves the right to amend the hostel policy from time to time. Please always refer to the hostel policy on the website for the update."
+          }
+        },
+        "AccommodationOffice": {
+          "address": {
+            "location": "2nd Door, Corridor next to ATM Machine, 1st Floor, Student Development & Services Centre (SDSC), University of Technology Sarawak (UTS), No.1, Jalan Universiti, 96000 Sibu, Sarawak"
+          },
+          "staff": [
+            {
+              "name": "Mr. David Ling",
+              "position": "Senior Executive",
+              "department": "SDSC",
+              "contact": {
+                "tel": "084-367596",
+                "email": "david@uts.edu.my"
+              }
+            },
+            {
+              "name": "Mr. Hazman",
+              "position": "Hostel Warden",
+              "department": "SDSC",
+              "contact": {
+                "tel": "084-367597",
+                "handphone": "019-8266318"
+              }
+            },
+            {
+              "name": "Mr. Mohd Riyad",
+              "position": "Admin Clerk",
+              "department": "SDSC",
+              "contact": {
+                "tel": "084-367595",
+                "email": "mohd.riyad@uts.edu.my"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ExaminationRulesAndRegulations": {
+          "overview": {
+            "rules": [
+              {
+                "title": "Students are required to read and understand the examination rules and regulations regularly prior to examinations."
+              },
+              {
+                "title": "Students must comply and adhere to the examination rules and regulations.",
+                "details": "Any breach of regulation, with or without intention, is regarded as 'misconduct' and will be handled under the University's disciplinary procedures."
+              },
+              {
+                "title": "Examinations will be scheduled to avoid wherever possible, recognised religious celebrations, festivals or ceremonies and key prayer times."
+              },
+              {
+                "title": "If an examination clashes with any religious observation, every reasonable effort will be made to make alternative arrangements during the exam period or at a later supplementary examination where possible."
+              }
+            ]
+          },
+          "examination": {
+            "beforeEnteringExaminationRoom": {
+              "actions": [
+                "Peruse through the examination schedule and take note on all important information regarding the examination",
+                "Print out examination entry slip on the specified period and make sure all dues are fulfilled and completed.",
+                "Take along identity card, student ID and examination entry slip to the examination. Candidates will not be allowed to sit for examination without these documents.",
+                "Arrive at least fifteen (15) minutes prior to the commencement of the examination.",
+                "Enter the examination hall when announced by the chief invigilator fifteen (15) minutes before examination starts through the ascribed entrance/s.",
+                "For late arrivals, candidates may only be allowed to sit for the examination if they arrive within the first thirty (30) minutes into the examination.",
+                "Candidates who arrive beyond thirty (30) minutes after examination starts will not be allowed to take the examination.",
+                "Candidates are strongly discouraged to bring along personal belongings not meant to be used during the examination for safety reasons. Items mistakenly brought to the examination must be placed at a designated location outside the examination hall. Candidates shall then be solely responsible for the safety of their belongings."
+              ]
+            },
+            "insideExaminationRoom": {
+              "requirements": [
+                "Check their persons to ensure that they have not inadvertently brought in prohibited items into the examination hall.",
+                "Produce their identity card, student card and their examination entry slip and place them on the top right hand corner of the table throughout the examination for inspection by the invigilators.",
+                "Candidates without a valid identity card/student card or examination entry slip will not be allowed to sit for the examination unless they have a written approval from the Examination Unit of the University.",
+                "Ten minutes prior to the commencement of the examination, candidates are requested:",
+                "Candidates are strictly not allowed to answer the questions before the announcement of the commencement of the examination by the Chief Invigilator.",
+                "Candidates must adhere to the instructions of the invigilators at all times.",
+                "Candidates who are ill and not able to continue with the examination must inform the invigilator.",
+                "Candidates must remain seated in the examination hall unless allowed otherwise by the invigilator.",
+                "Candidates must leave the examination hall in an orderly manner."
+              ]
+            }
+          },
+          "academicOffence": {
+            "actions": [
+              "Bringing prohibited items/materials into the examination room/hall or possess unauthorised document/information in hard or soft copy or any other sources of unauthorised information inside the examination room/hall.",
+              "Copying information from any unauthorised source, manual or electronics during the examination;",
+              "Copying from the examination script of other candidate/s;",
+              "Obtaining or offering improper assistance from or to other candidate/s;",
+              "Referring to and using any prohibited reference materials in or outside the examination hall/room for the purpose of cheating during the examination.",
+              "Communicating with other candidates during the examination.",
+              "Soliciting, obtaining, possessing, or distributing to another person an examination document prior to or subsequent to the administration of the examination.",
+              "Altering or changing an examination or similar document so as to mislead other users or the reader.",
+              "Substituting for, arranging for substitution by another student, impersonating a candidate or allowing to be impersonated by another candidate during examination session or similar circumstances.",
+              "Forgery or misrepresentation of fabricated data, results, references, evidence or other materials.",
+              "Plagiarism - presenting work or idea of others as one’s own without acknowledging the sources, including unauthorised use and submission of other student’s work as own."
+            ]
+          }
+        }
+      },
+      {
+        "ExaminationRulesAndRegulations": {
+          "overview": {
+            "rules": [
+              {
+                "title": "Students are required to read and understand the examination rules and regulations regularly prior to examinations."
+              },
+              {
+                "title": "Students must comply and adhere to the examination rules and regulations.",
+                "details": "Any breach of regulation, with or without intention, is regarded as 'misconduct' and will be handled under the University's disciplinary procedures."
+              },
+              {
+                "title": "Examinations will be scheduled to avoid wherever possible, recognised religious celebrations, festivals or ceremonies and key prayer times."
+              },
+              {
+                "title": "If an examination clashes with any religious observation, every reasonable effort will be made to make alternative arrangements during the exam period or at a later supplementary examination where possible."
+              }
+            ]
+          },
+          "examination": {
+            "beforeEnteringExaminationRoom": {
+              "actions": [
+                "Peruse through the examination schedule and take note on all important information regarding the examination",
+                "Print out examination entry slip on the specified period and make sure all dues are fulfilled and completed.",
+                "Take along identity card, student ID and examination entry slip to the examination. Candidates will not be allowed to sit for examination without these documents.",
+                "Arrive at least fifteen (15) minutes prior to the commencement of the examination.",
+                "Enter the examination hall when announced by the chief invigilator fifteen (15) minutes before examination starts through the ascribed entrance/s.",
+                "For late arrivals, candidates may only be allowed to sit for the examination if they arrive within the first thirty (30) minutes into the examination.",
+                "Candidates who arrive beyond thirty (30) minutes after examination starts will not be allowed to take the examination.",
+                "Candidates are strongly discouraged to bring along personal belongings not meant to be used during the examination for safety reasons. Items mistakenly brought to the examination must be placed at a designated location outside the examination hall. Candidates shall then be solely responsible for the safety of their belongings."
+              ]
+            },
+            "insideExaminationRoom": {
+              "requirements": [
+                "Check their persons to ensure that they have not inadvertently brought in prohibited items into the examination hall.",
+                "Produce their identity card, student card and their examination entry slip and place them on the top right hand corner of the table throughout the examination for inspection by the invigilators.",
+                "Candidates without a valid identity card/student card or examination entry slip will not be allowed to sit for the examination unless they have a written approval from the Examination Unit of the University.",
+                "Ten minutes prior to the commencement of the examination, candidates are requested to read and observe the instructions on the cover page of the answer booklet.",
+                "Candidates are strictly not allowed to answer the questions before the announcement of the commencement of the examination by the Chief Invigilator.",
+                "Candidates must adhere to the instructions of the invigilators at all times.",
+                "Candidates who are ill and not able to continue with the examination must inform the invigilator.",
+                "Candidates must remain seated in the examination hall unless allowed otherwise by the invigilator.",
+                "Candidates must leave the examination hall in an orderly manner."
+              ]
+            }
+          },
+          "academicOffence": {
+            "actions": [
+              "Bringing prohibited items/materials into the examination room/hall or possess unauthorised document/information in hard or soft copy or any other sources of unauthorised information inside the examination room/hall.",
+              "Copying information from any unauthorised source, manual or electronics during the examination;",
+              "Copying from the examination script of other candidate/s;",
+              "Obtaining or offering improper assistance from or to other candidate/s;",
+              "Referring to and using any prohibited reference materials in or outside the examination hall/room for the purpose of cheating during the examination.",
+              "Communicating with other candidates during the examination.",
+              "Soliciting, obtaining, possessing, or distributing to another person an examination document prior to or subsequent to the administration of the examination.",
+              "Altering or changing an examination or similar document so as to mislead other users or the reader.",
+              "Substituting for, arranging for substitution by another student, impersonating a candidate or allowing to be impersonated by another candidate during examination session or similar circumstances.",
+              "Forgery or misrepresentation of fabricated data, results, references, evidence or other materials.",
+              "Plagiarism - presenting work or idea of others as one’s own without acknowledging the sources, including unauthorised use and submission of other student’s work as own."
+            ],
+            "additionalNotes": [
+              "The above list is not exhaustive and other instances of academic offence may occur. Their identification will require prudent review by the University.",
+              "The above definition and examples apply to all schools and similar bodies in University College of Technology Sarawak."
+            ]
+          },
+          "disciplinaryActions": {
+            "actions": [
+              "Candidates who are suspected to breach any part of the examination rules and regulations will be referred to the School where the misconduct was done.",
+              "The Dean will consider the evidence and may investigate and call the student for hearing by the School Disciplinary Committee (SDC).",
+              "If SDC is satisfied that the student is guilty of academic misconduct, the case will then be referred to Academic Disciplinary Committee (ADC) for further decision and penalty.",
+              "Students who are not satisfied with ADC’s decision may appeal to the Disciplinary Appeals Committee (DAC)."
+            ]
+          },
+          "penalties": {
+            "penaltyOptions": [
+              "A written warning;",
+              "A mark of zero for the specific part/material involved;",
+              "A mark of zero for the entire piece of coursework or assessment;",
+              "A mark of zero for the entire module.",
+              "Award a mark of zero for all the assessments in the semester;",
+              "Award a mark of zero for the whole year;",
+              "Require the student to take reassessments in the following session;",
+              "In the case of postgraduate students by research, confirm the student’s probationary status and require the student to undertake another annual (confirmation) review;",
+              "Require a postgraduate student to resubmit a thesis;",
+              "Suspend or terminate the student’s study programme;",
+              "Withdraw the award of a degree or other qualification from a former student;"
+            ]
+          },
+          "declaration": {
+            "clauses": [
+              "In the event there are certain matters which are not covered in these Rules and regulations, but they are used in any process of the examination management and do not affect the good name of UCTS or in violation of part or all of the section or subsection in the constitution of UCTS, then it is justified and is not considered an attempt for non-compliance.",
+              "Subject to the approval of the Senate, these rules and regulations may be amended from time to time on the basis of requirements and demands intended to improve and enhance the authority of the examination management."
+            ]
+          }
+        },
+        "AcademicAffairsAndRegistry": {
+          "vision": "The Office of Academic Affairs and Registry aspires to be committed, receptive, effective and innovative in upholding quality academic management and services, as well as personal and professional growth of team members. Where students’ academic progress is nurtured by warranting proper administration of academic processes from admission to graduation with secure and well maintained academic records, through close cooperation with schools and academic related departments. The Office of Academic Affairs and Registry seeks to serve the University with integrity and utmost ethical and professional principles, as well as to be acknowledged as professionally excellent, student-oriented and efficient in service.",
+          "mission": [
+            "The Office of Academic Affairs and Registry is the main supporting team in terms of academic management of the university, dedicated to present a supportive setting for on-campus teaching and learning via the Academic Management System in the Oculus.",
+            "The Office advises the Vice Chancellor / President on matters pertaining to academic affairs and Registry and maintains liaison with Schools, related Centres and Departments within the University.",
+            "The fundamental mission of the Office includes proper management and maintenance of academic affairs from admission to graduation such as registration, course and class scheduling, management and maintenance of student records, examination arrangement, graduation and convocation.",
+            "The Office is also responsible in the management of the Senate and Senate standing committees as well as maintenance of academic policies, guidelines and standard operating procedures (SOP) as approved by the Senate. The Office manages proceedings of the Senate and its standing committees, minute writing and related documentation and records.",
+            "The Office supports the university’s mission of achieving academic excellence through continuous efforts on quality improvement and assuring best practices in academic management for all students. The Office is devoted to ethical and professional values in all capacities; maintaining precision, integrity, and confidentiality of student academic records, by observing policies, standards and guidelines as stipulated by the University and other related governing bodies."
+          ],
+          "teams": [
+            {
+              "name": "MOHAMED AZMI RAMLI",
+              "title": "HEAD OF ACADEMIC AFFAIRS & REGISTRY, REGISTRAR",
+              "extension": "341"
+            },
+            {
+              "name": "ASPA' AIDA MOHAMAD",
+              "title": "SENIOR EXECUTIVE, REGISTRY & ACADEMIC RELATION",
+              "extension": "339"
+            },
+            {
+              "name": "AMBARI OSMAN",
+              "title": "EXECUTIVE, ADMISSION & RECORD",
+              "extension": "342"
+            },
+            {
+              "name": "FIZZAHUTIAH TAHA",
+              "title": "EXECUTIVE, EXAMINATION & GRADUATION",
+              "extension": "334"
+            },
+            {
+              "name": "NADIAIZZATI MOHAMAD",
+              "title": "SENIOR ADMIN ASSISTANT, ADMISSION & RECORD",
+              "extension": "338"
+            },
+            {
+              "name": "PEONY UPANG JELANI",
+              "title": "ADMIN ASSISTANT, EXAMINATION & GRADUATION",
+              "extension": "335"
+            },
+            {
+              "name": "SABRINA BAHRIN",
+              "title": "SENIOR CLERK, ADMISSION & RECORD",
+              "extension": "337"
+            },
+            {
+              "name": "MOHD NURAZRIE ANNUAR",
+              "title": "SENIOR CLERK, EXAMINATION & GRADUATION",
+              "extension": "335"
+            },
+            {
+              "name": "ZURANA EBA",
+              "title": "CLERK, REGISTRY & ACADEMIC RELATION",
+              "extension": "336"
+            }
+          ],
+          "contact": {
+            "address": "UNIVERSITY OF TECHNOLOGY SARAWAK, 1ST FLOOR, ADMINISTRATION BLOCK, 96000, SIBU SARAWAK",
+            "phone": "084-367300",
+            "email": "AARDTEAM@UTS.EDU.MY"
+          }
+        }
+      },
+      {
+        "department": {
+          "name": "Corporate Administration and Relations Department",
+          "abbreviation": "CARD",
+          "roles": [
+            "Event Management for the University",
+            "Press Media Liaison for the University",
+            "Graphic Design for the University",
+            "Corporate Administration of the University",
+            "Board of Director’s Secretariat"
+          ],
+          "staff": [
+            {
+              "name": "Mohd Ian Daim Bin Mahmud",
+              "position": "Manager",
+              "extension": "362",
+              "email": "mohd.ian.daim",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Corporate Administration (Hons)",
+                  "institution": "UiTM"
+                }
+              ]
+            },
+            {
+              "name": "Kelly A. Usit",
+              "position": "Corporate Executive",
+              "extension": "364",
+              "email": "kelly",
+              "qualifications": [
+                {
+                  "degree": "Master of Business Administration",
+                  "institution": "UTS"
+                },
+                {
+                  "degree": "Bachelor of Finance (Honours)",
+                  "institution": "UNIMAS"
+                }
+              ]
+            },
+            {
+              "name": "Ts. Nur Azura Mohamad",
+              "position": "Graphic Design Executive",
+              "extension": "363",
+              "email": "nurazura",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Information and Communication Technology",
+                  "institution": "Swinburne Sarawak"
+                }
+              ]
+            }
+          ]
+        },
+        "roles": [
+          {
+            "type": "Role",
+            "name": "Event Management",
+            "description": "Event Management for the University"
+          },
+          {
+            "type": "Role",
+            "name": "Press Media Liaison",
+            "description": "Press Media Liaison for the University"
+          },
+          {
+            "type": "Role",
+            "name": "Graphic Design",
+            "description": "Graphic Design for the University"
+          },
+          {
+            "type": "Role",
+            "name": "Corporate Administration",
+            "description": "Corporate Administration of the University"
+          },
+          {
+            "type": "Role",
+            "name": "Board of Director’s Secretariat",
+            "description": "Board of Director’s Secretariat"
+          }
+        ],
+        "staff": [
+          {
+            "type": "Staff",
+            "name": "StaffMember",
+            "properties": {
+              "name": "",
+              "position": "",
+              "extension": "",
+              "email": "",
+              "qualifications": []
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "Manager",
+            "properties": {
+              "name": "Mohd Ian Daim Bin Mahmud",
+              "position": "Manager",
+              "extension": "362",
+              "email": "mohd.ian.daim",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Corporate Administration (Hons)",
+                  "institution": "UiTM"
+                }
+              ]
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "CorporateExecutive",
+            "properties": {
+              "name": "Kelly A. Usit",
+              "position": "Corporate Executive",
+              "extension": "364",
+              "email": "kelly",
+              "qualifications": [
+                {
+                  "degree": "Master of Business Administration",
+                  "institution": "UTS"
+                },
+                {
+                  "degree": "Bachelor of Finance (Honours)",
+                  "institution": "UNIMAS"
+                }
+              ]
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "GraphicDesignExecutive",
+            "properties": {
+              "name": "Ts. Nur Azura Mohamad",
+              "position": "Graphic Design Executive",
+              "extension": "363",
+              "email": "nurazura",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Information and Communication Technology",
+                  "institution": "Swinburne Sarawak"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "department": {
+          "name": "Human Capital and Administration Department",
+          "abbreviation": "HCAD",
+          "about": "Human Capital and Administration Department is responsible for the human resources program for the University and other non-academic and academic professional employees on our campus. This office provides a wide range of employee and departmental services, including guidance and counsel to units and employees on all human resources policies, review and processing of all appointments, coordination of Human Resource Committee approval items, and advice on all labor and employee relations issues.",
+          "policies": "The main policy of the Human Capital & Administration Department is to promote a working environment which fosters employee satisfaction and development in areas of recruitment, benefits, compensation, staff development, creating innovative people strategies and anticipating emergency needs of the University.",
+          "objective": [
+            "To provide efficient services to Staff (In term of accurate, timely and complete).",
+            "To train and develop members of the staff to achieve their potential as key contribution in the work place."
+          ],
+          "staff": [
+            {
+              "name": "Jimmy De Rozario @ Abdul Rahman",
+              "position": "Head of Department",
+              "extension": "331",
+              "email": "jimmy",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Human Resource Development",
+                  "institution": "University Putra Malaysia"
+                },
+                {
+                  "certification": "AMC (Accredited Management Consultant)",
+                  "institution": "Global Academy Of Finance And Management"
+                },
+                {
+                  "certification": "CHRA (Chartered Human Resources Analyst)",
+                  "institution": "American Academy Of Project Management"
+                },
+                {
+                  "certification": "Certification In Training",
+                  "institution": "HRDF (Human Resource Development Fund)"
+                }
+              ],
+              "experience": "Over 25 years in public and private sectors"
+            },
+            {
+              "name": "Nurfaezah Binti Sharif",
+              "position": "Senior Executive",
+              "extension": "390",
+              "email": "faezah",
+              "qualifications": [
+                {
+                  "degree": "Bachelor in Human Resource Development",
+                  "institution": "Universiti Malaysia Sarawak (UNIMAS)"
+                }
+              ],
+              "responsibilities": [
+                "Recruitment and staff payroll",
+                "Human Capital Department office management"
+              ]
+            },
+            {
+              "name": "Mohd Shukri Bin Abdullah",
+              "position": "Executive",
+              "extension": "392",
+              "email": "mohd.shukri",
+              "qualifications": [
+                {
+                  "degree": "Bachelor in Office System Management",
+                  "institution": "Universiti Teknologi Mara (UiTM)"
+                }
+              ],
+              "responsibilities": [
+                "Staff Benefits and welfare",
+                "Teaching permits and work permits"
+              ]
+            },
+            {
+              "name": "Nurfazrina Binti Hamdan",
+              "position": "Administrative Assistant",
+              "extension": "330",
+              "email": "fazrina",
+              "qualifications": [
+                {
+                  "degree": "Diploma in Marketing with Multimedia",
+                  "institution": "Multimedia College"
+                }
+              ],
+              "responsibilities": [
+                "Staff training and development",
+                "Internship and scholarship (staff)"
+              ]
+            },
+            {
+              "name": "Asha Hazryn Binti Hol",
+              "position": "Senior Clerk",
+              "extension": "391",
+              "email": "asha.hazryn",
+              "responsibilities": [
+                "Monitoring the flow of staff’s claim",
+                "Filing",
+                "Arranging for interviews",
+                "Communicating with staff on claims and relevant matters"
+              ]
+            }
+          ]
+        },
+        "roles": [
+          {
+            "type": "Role",
+            "name": "Head of Department",
+            "description": "Responsible for the strategic direction of the Human Capital Department."
+          },
+          {
+            "type": "Role",
+            "name": "Senior Executive",
+            "description": "Handles recruitment, staff payroll, and office management."
+          },
+          {
+            "type": "Role",
+            "name": "Executive",
+            "description": "Responsible for staff benefits, welfare, and permits."
+          },
+          {
+            "type": "Role",
+            "name": "Administrative Assistant",
+            "description": "Handles staff training, development, internships, and scholarships."
+          },
+          {
+            "type": "Role",
+            "name": "Senior Clerk",
+            "description": "Monitors staff claims, manages filing, arranges interviews, and communicates with staff."
+          }
+        ],
+        "staff": [
+          {
+            "type": "Staff",
+            "name": "StaffMember",
+            "properties": {
+              "name": "",
+              "position": "",
+              "extension": "",
+              "email": "",
+              "qualifications": [],
+              "responsibilities": []
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "HeadOfDepartment",
+            "properties": {
+              "name": "Jimmy De Rozario @ Abdul Rahman",
+              "position": "Head of Department",
+              "extension": "331",
+              "email": "jimmy",
+              "qualifications": [
+                {
+                  "degree": "Bachelor of Human Resource Development",
+                  "institution": "University Putra Malaysia"
+                },
+                {
+                  "certification": "AMC (Accredited Management Consultant)",
+                  "institution": "Global Academy Of Finance And Management"
+                },
+                {
+                  "certification": "CHRA (Chartered Human Resources Analyst)",
+                  "institution": "American Academy Of Project Management"
+                },
+                {
+                  "certification": "Certification In Training",
+                  "institution": "HRDF (Human Resource Development Fund)"
+                }
+              ],
+              "experience": "Over 25 years in public and private sectors"
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "SeniorExecutive",
+            "properties": {
+              "name": "Nurfaezah Binti Sharif",
+              "position": "Senior Executive",
+              "extension": "390",
+              "email": "faezah",
+              "qualifications": [
+                {
+                  "degree": "Bachelor in Human Resource Development",
+                  "institution": "Universiti Malaysia Sarawak (UNIMAS)"
+                }
+              ],
+              "responsibilities": [
+                "Recruitment and staff payroll",
+                "Human Capital Department office management"
+              ]
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "Executive",
+            "properties": {
+              "name": "Mohd Shukri Bin Abdullah",
+              "position": "Executive",
+              "extension": "392",
+              "email": "mohd.shukri",
+              "qualifications": [
+                {
+                  "degree": "Bachelor in Office System Management",
+                  "institution": "Universiti Teknologi Mara (UiTM)"
+                }
+              ],
+              "responsibilities": [
+                "Staff Benefits and welfare",
+                "Teaching permits and work permits"
+              ]
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "AdministrativeAssistant",
+            "properties": {
+              "name": "Nurfazrina Binti Hamdan",
+              "position": "Administrative Assistant",
+              "extension": "330",
+              "email": "fazrina",
+              "qualifications": [
+                {
+                  "degree": "Diploma in Marketing with Multimedia",
+                  "institution": "Multimedia College"
+                }
+              ],
+              "responsibilities": [
+                "Staff training and development",
+                "Internship and scholarship (staff)"
+              ]
+            }
+          },
+          {
+            "type": "Staff",
+            "name": "SeniorClerk",
+            "properties": {
+              "name": "Asha Hazryn Binti Hol",
+              "position": "Senior Clerk",
+              "extension": "391",
+              "email": "asha.hazryn",
+              "responsibilities": [
+                "Monitoring the flow of staff’s claim",
+                "Filing",
+                "Arranging for interviews",
+                "Communicating with staff on claims and relevant matters"
+              ]
+            }
+          }
+        ],
+        "announcements": [
+          {
+            "title": "Offer of Studies at the Degree (Masters and PhD) under UTS Young Lecturer Development Scheme",
+            "schemeName": "Young Lecturer Development Scheme (YLDP)",
+            "objective": "Giving scholarships to students to pursue a Masters and PhD at the Institution of Higher Learning.",
+            "requirements": [
+              "Open to Sarawakian only.",
+              "Students who have achieved outstanding success in the academic field in the first degree with the first class honours degree or three points above (CGPA ≥ 3.0) and are active in co-curricular activities.",
+              "Continuing studies at the Masters / Doctorate in the field of Architecture (Architecture), Surveying, Computer Science, Food Science Technology, Civil Engineering, Mechanical Engineering, Manufacturing Engineering, Electronic Engineering, Electrical Engineering (Power), Business and Accounting.",
+              "Not exceeding 30 years.",
+              "Pass the interview.",
+              "Signed a service agreement with UTS after graduation."
+            ],
+            "applicationDetails": "Interested candidates are invited to send a cover letter, complete resume, academic certificates and transcripts, together with passport size photograph, to the following address: Human Capital and Administration Department, University of Technology Sarawak, No 1, Jalan Universiti, 96000 Sibu, Sarawak. Candidates may also submit their application via email: yldp.hcd@uts.edu.my. The offer of this scheme is limited. Only candidates who have been shortlisted will be called for interviews."
+          }
+        ]
+      },
+      
+{
+  "services": [
+    {
+      "type": "Term of Use",
+      "name": "TURNITIN",
+      "description": "Turnitin is a web-based plagiarism prevention system that enables schools and students to detect and avoid plagiarism in their academic work. This tool can help users in terms of preventing plagiarism in writing, improving writing techniques, promoting critical thinking, and facilitating the provision of grade writing. The system is available for all UCTS academic staff (subject to their respective school approval) to create class assignments and enroll students into Turnitin. Instructors can enroll students themselves (recommended) or ask students to enroll on their own by providing class ID and enrollment password for the class. For students, IT Department does not provide Turnitin accounts. The instructor will either enroll their students or provide their students’ Turnitin class ID and enrollment password to register. IT Department is the Turnitin Administrator for UCTS. The usage is based on an annual license subscribed by IT Department. This tool can be accessed online through http://www.turnitin.com/index/php."
+    },
+    {
+      "type": "Term of Use",
+      "name": "STAFF PRINTING",
+      "description": "Every staff is provided access to PaperCut MF and MFP Toshiba for printing, copy, and scan purposes. For new staff, they need to register their staff ID card to initiate printing access. Note: Each staff member will be granted default printing access, allowing them to print in black only. Access to color printing will be exclusively reserved for Heads of Department (HOD), Heads of Programme (HOP), and the Dean. For color printing projects, such as marketing materials or posters, additional approval or coordination will be required. Staff members should submit a request via email for such projects well in advance, providing details on the desired print volume, deadlines, and purpose. The request will undergo a review process, and approval will be granted based on resource availability and alignment with organizational priorities. Each approved access will be granted for a period of three (3) days, after which the default printing access will be reinstated."
+    },
+    {
+      "type": "Term of Use",
+      "name": "STUDENT EMAIL ACTIVATION",
+      "description": "Every student is provided with an official UTS student email powered by Google. It is used for official means of communication. Click here to activate the email: (https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&hd=student.uts.edu.my&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession)"
+    },
+    {
+      "type": "Google Classroom Tutorial",
+      "name": "Google Classroom Online Tutorial for Educators",
+      "description": "This tutorial by Mr. Rahmat Aidil from the School of Business and Management, University of Technology Sarawak, provides an overview of Google Classroom and its use for educators. Links to video tutorials and other teaching tools/tips are provided for further assistance."
+    },
+    {
+      "type": "Microsoft Account Activation",
+      "name": "Microsoft Account Activation",
+      "description": "Quick link: www.office.com"
+    },
+    {
+      "type": "Helpdesk",
+      "name": "SPICEWORKS HELPDESK",
+      "description": "Spiceworks is a quick and easy way to report your case or problem and track the progress. You can submit your service request, report, incidence, or complaint through Spiceworks ticketing. You will receive an automated email reply within 5 minutes with a case reference number e.g. [Ticket #2003] <your summary>, for progress tracking and status of your query. Quick link for Option 1: help@ucts.on.spiceworks.com. Quick link for Option 2: https://ucts.on.spiceworks.com/portal"
+    },
+    {
+      "type": "Service",
+      "name": "WIRELESS NETWORK",
+      "description": "Wireless network services powered by TM Unifi are available throughout the University, including UTS Hostel. To access the WiFi, please connect to SSID through your device. Please call ITD Service Desk for any feedback or other issues. Students can connect to SSID 'UCTS-Student' and use their student credentials to log in."
+    },
+    {
+      "type": "Service",
+      "name": "ITD SERVICE DESK",
+      "description": "Welcome to ITD Service Desk. We provide efficient and professional support of all the services offered by ITD to all UTS staff, students, alumni, and guests both on and off-campus. Most of the time, we can help you with all your ICT needs through email, phone support, remote support, and tickets. For more information, visit: https://itd.uts.edu.my/services/"
+    }
+  ]
+},
+{
+  "offices": [
+    {
+      "name": "VICE CHANCELLOR’S OFFICE",
+      "members": [
+        {
+          "name": "Prof Datuk Dr Khairuddin Ab. Hamid",
+          "position": "Vice Chancellor",
+          "qualifications": [
+            "PhD Electronic System Eng.(Essex)",
+            "MSc. Electrical Eng(Hawaii)",
+            "B.Electrical Eng.(UTM)"
+          ]
+        },
+        {
+          "name": "Nurhajijah binti Mohammad",
+          "position": "Secretary to Vice Chancellor",
+          "extension": "366",
+          "email": "nurhajijah",
+          "qualifications": "Diploma in Secretarial Science (Politeknik Mukah, Sarawak)"
+        }
+      ]
+    },
+    {
+      "name": "DEPUTY VICE CHANCELLOR’S OFFICE",
+      "description": "The Deputy Vice Chancellor (Academic) Office is committed to leading all matters related to academic affairs and ensuring that students receive excellent quality teaching. Academic matters concerning accreditation, teaching and learning, and resources for education and related areas fall within the scope of this office.",
+      "message": "Welcome to University of Technology Sarawak (UTS). The location at the heart of Sarawak within the Sarawak Corridor of Renewable Energy (SCORE) is strategically placed the importance at the university. UTS is a full pledged university in Sibu owned by the Sarawak State Government. Established on the 1st April 2013, UTS is equipped with the latest facilities to facilitate teaching, learning and research activities. UTS was awarded Platinum for the Green Building Index (GBI) and one of the beautiful campus in Malaysia. The opportunities coupled with learning environment within the university is conducive in providing a platform for students to grow. These benefits will helps students to grow and create opportunities for themselves once graduated. UTS focus mainly on the technical and engineering education, training and research to support Sarawak Corridor of Renewable Energy (SCORE). UTS, strongly believe that university can help the students to achieve the education and career goal as we offer numerous opportunities for you to grow. This would necessarily include leadership and critical thinking skills. Sarawak with the diverse community, it is our responsibility to ensure students receive excellent quality teaching and learning for a successful future. It is an overwhelming to the students which will then graduate from UTS and starts its career. UTS role is not only to provide learning environment but also student’s exposure and experience. In getting information on the university, I welcome you again and do browse our website in getting away queries or information that you required. Thank you Prof Ir Ts Dr Mohammad Shahril Osman Deputy Vice Chancellor (Academic)",
+      "members": [
+        {
+          "name": "Prof. Ir. Ts. Dr. Mohammad Shahril bin Osman",
+          "position": "Deputy Vice Chancellor",
+          "extension": "368",
+          "email": "drshahril",
+          "qualifications": "PhD, B. Eng (Hons) Mechanical Engineering (Loughborough)"
+        },
+        {
+          "name": "Radhika anak Rahman",
+          "position": "Admin Officer",
+          "extension": "365",
+          "email": "radhika",
+          "qualifications": "Bachelor of Computer Science (Information Systems)"
+        }
+      ]
+    }
+  ]
+},
+{
+  "facilities": {
+    "lab_and_classroom": {
+      "civil_engineering_labs": [
+        "Concrete Lab",
+        "Environmental And Waste Water Lab",
+        "Highway And Traffic Lab",
+        "Hydraulic Lab",
+        "Light Structure Lab",
+        "Soil And Geotechnic Lab",
+        "Survey Lab"
+      ],
+      "electrical_and_electronic_labs": [
+        "Electrical Lab",
+        "Electronic Lab",
+        "Control And Automation Lab",
+        "Communication System Lab",
+        "Power Systems Lab"
+      ],
+      "food_technology_labs": [
+        "Food Analysis Lab",
+        "Food Microbiology Lab",
+        "Food Packaging Lab",
+        "Food Processing Lab",
+        "Food Sensory Lab"
+      ],
+      "mechanical_engineering_labs": [
+        "Cadcam Lab",
+        "Fluid Lab",
+        "Material Lab",
+        "Metrology Lab",
+        "Static & Dynamic Lab",
+        "Workshop"
+      ],
+      "lecture_theatres": {
+        "Lecture Theatre A (LTA)": {
+          "seating_capacity": 190,
+          "location": "Built Environment Centre"
+        },
+        "Lecture Theatre B (LTB)": {
+          "seating_capacity": 190,
+          "location": "Built Environment Centre"
+        },
+        "Lecture Theatre C (LTC)": {
+          "seating_capacity": 390,
+          "location": "Management Science and General Studies Centre"
+        }
+      }
+    },
+    "arc_facilities": {
+      "computers_and_internet_access_area": {
+        "location": "ground floor",
+        "number_of_computers": 100
+      },
+      "study_area": {
+        "seating_capacity": 500
+      },
+      "reading_area": true,
+      "discussion_rooms": {
+        "number_of_rooms": 5,
+        "capacity_per_room": "6 to 8 persons",
+        "location": "first floor"
+      },
+      "student_centre": true
+    },
+    "proposed_technology_and_science_park": {
+      "description": "The establishment of this Technology Park will enhance the ability of UTS to fully exploit its research and development capabilities through its research and development initiatives. This will also ensure that the students at UTS enjoy a one-of-a-kind experience at UTS where R&D initiatives become part of their learning environment. In addition, the Technology Park will be the premier destination for both the local and foreign R&D minded individuals who are aspired to achieve excellence through research and development initiatives in areas such as Transportation & Logistics, Food Technology, Materials, Bio-Technology, ICT, Automation, Green Technology and Agriculture Technology."
+    }
+  },
+  "school_of_foundation_study": {
+    "dean": {
+      "name": "MR. MUHAMMAD AFIF BIN ABDUL RANI",
+      "message": "The School of Foundation Studies was established in April 2013 and offers two foundation or pre-university programmes preparing school leavers for undergraduate level study. The two programmes offered are: Foundation in Arts (MQA/FA3075) and Foundation in Science (MQA/FA3076). The foundation programs, lasting for 12 months, admit students in June and September each year. UTS School of Foundation Studies provides two affordable yet high-quality one-year programs, preparing students for entry into Year 1 of degree programs. These foundation programs consist of the Foundation in Science and the Foundation in Arts. The Foundation in Science Program focuses on imparting essential knowledge and analytical skills, laying the groundwork for students before they pursue programs in science and technology at UTS. This program not only equips students with fundamental knowledge but also cultivates strong communication, leadership, social skills, and instills a high ethical attitude. Upon completion of the Foundation in Science, students can progress to various fields of study at UTS, including Civil Engineering, Engineering Technology, Mechanical Engineering, Electrical Engineering, Food Technology, Computer Science, and Software Engineering. The courses covered in the Foundation in Science encompass Mathematics, Physics, Chemistry, Biology, English, Computing, and Laboratory work. The program aims to comprehensively prepare students for their academic pursuits and future professional endeavors. Conversely, the goals of the Foundation in Arts Program aim to provide students with essential knowledge and analytical skills across various courses. These courses encompass Business and Management, Marketing, Economics, Finance and Accounting, Construction and Property, Law, English Languages (both spoken and written), Computer System and Multimedia, Critical Thinking, and Mathematics. This comprehensive preparation equips students to pursue degree programs in diverse fields such as Business, Accountancy, Information Technology, Architecture, Quantity Surveying, Communications, Interior Design, Languages, and other non-science/engineering disciplines. Both Foundation Programs are accessible to individuals holding Sijil Pelajaran Malaysia (SPM) /GCE O-level equivalent and Unified Examination Certificate (UEC). To be eligible for enrollment in the Foundation in Science program, applicants must attain 5 Credits, including Mathematics and any Science subject, with a pass in Bahasa Malaysia and Bahasa English in SPM / GCE O-Level equivalent, or secure 4 Grade B, inclusive of Mathematics and any Science subject, in UEC. Conversely, candidates can enroll in the Foundation in Arts program by achieving 5 Credits in SPM / GCE O-level equivalent or obtaining 4 Grade B in UEC. In addition to on-campus classes, academic excursions are arranged for students to explore various locations relevant to their studies, such as shipyards and organic farms. To foster a well-rounded development, the UTS Students Development and Services Division conducts sports and recreation activities in the afternoons or on weekends. These activities encompass badminton, netball, basketball, cultural performances and dancing, jungle trekking, photography and video shooting, and public speaking. Upon successful completion of the foundation studies, students have the opportunity to progress to various degree programs offered by UTS, provided they meet the entry requirements for the respective degrees. Scholarships are available for eligible students, subject to specific conditions."
+    },
+    "programs_offered": [
+      {
+        "name": "Foundation in Arts",
+        "code": "MQA/FA3075"
+      },
+      {
+        "name": "Foundation in Science",
+        "code": "MQA/FA3076"
+      }
+    ],
+    "admission_requirements": {
+      "foundation_in_science": {
+        "spm_or_gce_olevel": {
+          "credits_required": 5,
+          "required_subjects": ["Mathematics", "Science"],
+          "additional_requirements": ["pass in Bahasa Malaysia and Bahasa English in SPM / GCE O-Level equivalent", "secure 4 Grade B, inclusive of Mathematics and any Science subject, in UEC"]
+        }
+      },
+      "foundation_in_arts": {
+          "spm_or_gce_olevel": {
+            "credits_required": 5,
+            "additional_requirements": ["Obtain 5 Credits in SPM / GCE O-level equivalent", "Obtain 4 Grade B in UEC"]
+          }
+        }
+      },
+      "activities": {
+        "academic_excursions": "Arranged for students to explore various locations relevant to their studies, such as shipyards and organic farms.",
+        "sports_and_recreation_activities": [
+          "Badminton",
+          "Netball",
+          "Basketball",
+          "Cultural performances and dancing",
+          "Jungle trekking",
+          "Photography and video shooting",
+          "Public speaking"
+        ]
+      }
+    }
+  },
+  {
+      "staff": {
+        "school_of_foundation": {
+          "dean": {
+            "name": "Mr. Muhammad Afif",
+            "position": "Dean, Lecturer",
+            "email": "muhd.afif@uts.edu.my"
+          },
+          "deputy_dean": {
+            "name": "Mr. Kong Sieng Huat",
+            "position": "Deputy Dean, Senior Lecturer",
+            "email": "shkong@uts.edu.my"
+          },
+          "foundation_in_arts": {
+            "head_of_programme": [
+              {
+                "name": "Ms. Esther Rachel Beruin",
+                "position": "Head of Programme, Lecturer",
+                "email": "estherachel@uts.edu.my"
+              },
+              {
+                "name": "Ms. Dayang Ernie Nurfarah’ain",
+                "position": "Lecturer",
+                "email": "dyg.ernie@uts.edu.my"
+              },
+              {
+                "name": "Ms. Eylia Nadiah",
+                "position": "Lecturer",
+                "email": "eylianadiah@uts.edu.my"
+              },
+              {
+                "name": "Ms. Jessica Lyn Andam",
+                "position": "Lecturer",
+                "email": "jessicalyn@uts.edu.my"
+              },
+              {
+                "name": "Ms. Nadia Richard",
+                "position": "Assistant Lecturer",
+                "email": "nadiarichard@uts.edu.my"
+              },
+              {
+                "name": "Mr. Joel Neo Sauyi",
+                "position": "Lecturer",
+                "email": "joelneo@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Davina Sharenya",
+                "position": "Head of Working Group, Lecturer",
+                "email": "davina@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Monie Ramba",
+                "position": "Lecturer, Head of Marketing",
+                "email": "monie@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Nurul Rafeah",
+                "position": "Assistant Lecturer",
+                "email": "nurul.rafeah@uts.edu.my"
+              }
+            ]
+          },
+          "foundation_in_science": {
+            "head_of_programme": {
+              "name": "Ms. Nabella Holling",
+              "position": "Head of Programme, Assistant Lecturer",
+              "email": "hnabella@uts.edu.my"
+            },
+            "lecturers": [
+              {
+                "name": "Mr. Rafiq bin Tamin",
+                "position": "Head of Working Group, Lecturer",
+                "email": "rafiqtamin@uts.edu.my"
+              },
+              {
+                "name": "Mr. Mohd Shafiq Afnan",
+                "position": "Physics Lab Coordinator, Assistant Lecturer",
+                "email": "shafiqafnan@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Cheong Kah Yein",
+                "position": "Chemistry Lab Coordinator, Senior Lecturer",
+                "email": "cheong.kah.yein@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Nur Syafiqah",
+                "position": "Lecturer",
+                "email": "nursyafiqah@uts.edu.my"
+              },
+              {
+                "name": "Dr. Sofiyah Mohd Razali",
+                "position": "Lecturer",
+                "email": "sofiyah@uts.edu.my"
+              }
+            ]
+          },
+          "language_and_general_course_group": {
+            "head_of_working_group": {
+              "name": "Ms. Fetylyana Nor Pazilah",
+              "position": "Head of Working Group, Lecturer",
+              "email": "fetylyana@uts.edu.my"
+            },
+            "lecturers": [
+              {
+                "name": "Ms. Abishag Sharmi",
+                "position": "Lecturer",
+                "email": "abishag@uts.edu.my"
+              },
+              {
+                "name": "Mr. Howes Sallang",
+                "position": "Lecturer",
+                "email": "howes@uts.edu.my"
+              },
+              {
+                "name": "Mdm. Jill Ling Pei Wah",
+                "position": "Assistant Lecturer",
+                "email": "jill@uts.edu.my"
+              }
+            ]
+          },
+          "mathematics_and_computing_group": {
+            "head_of_working_group": {
+              "name": "Ms. Norsyafika Othman",
+              "position": "Head of Working Group, Assistant Lecturer",
+              "email": "norsyafika@uts.edu.my"
+            },
+            "lecturers": [
+              {
+                "name": "Mdm. Grace Lau Chui Ting",
+                "position": "Lecturer",
+                "email": "gracelau@uts.edu.my"
+              },
+              {
+                "name": "Ms. Chien Tiew Mee",
+                "position": "Lecturer (Study Leave)",
+                "email": "chientiewmee@uts.edu.my"
+              }
+            ]
+          },
+          "non_academic_staff": [
+            {
+              "name": "Mdm. Maria Gorietti",
+              "position": "Senior Executive"
+            },
+            {
+              "name": "Mdm. Angela Liu Mee Mei",
+              "position": "Senior Clerk"
+            },
+            {
+              "name": "Mr. Waldo Bernard",
+              "position": "Assistant Lab Technologist"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "programme": {
+        "name": "Foundation In Arts",
+        "code": "R2/010/3/0124A",
+        "accreditation": "(MQA/FA3075)",
+        "duration": "3/28",
+        "overview": "To furnish the students with fundamental knowledge and analytical skills in core Arts subjects such as Languages (Spoken and Written), Information Technology and Mathematics that enable them to undertaking Bachelor degree programmes in the fields of Business, Accountancy, Information Technology, Architecture, Communications, Languages and any Non-Science / Engineering fields.",
+        "learning_outcomes": [
+          "To gain the mastery of the fundamental knowledge in the essential Pre-University level areas of Business, Communications, Languages (Spoken and Written), Information Technology and Basic Architectural Subjects.",
+          "To be armed with the capability of applying the fundamental knowledge gained in solving elementary Pre-University level problems in the areas stated above.",
+          "To think rationally, have sense of humanity, humility and responsibility and respect of lecturers",
+          "To learn that the quality and nature of coursework submitted must reflect the true level of maturity and demands of the subjects for the programme and to learn that the unethical conduct of plagiarism is prohibited in the academia.",
+          "To learn effective written and verbal communication skills as well as the development of teamwork spirit.",
+          "To be armed with scientific reasoning and critical analysis skills to solve scientific problems across the areas mentioned above.",
+          "To be equipped with necessary knowledge to pursue Bachelor’s degree.",
+          "To gain time management skills essential for ensuring tasks are completed in time."
+        ],
+        "entry_requirements": [
+          "Pass SPM/O-level equivalent with FIVE (5) Grade C’s; or",
+          "Pass UEC with FOUR (4) Grade B’s"
+        ],
+        "structure": {
+          "semesters": [
+            {
+              "name": "SEMESTER 1",
+              "courses": [
+                "Introduction to Business",
+                "Principles of Marketing",
+                "Principles of Economics",
+                "Introductory Mathematical Analysis",
+                "Principles of Accounting",
+                "English 1"
+              ]
+            },
+            {
+              "name": "SEMESTER 2",
+              "courses": [
+                "Introduction to Computer Systems and Applications",
+                "Presentation Skills",
+                "Business Communication",
+                "Introduction to Finance",
+                "English II",
+                "Event Management",
+                "Elective Course*"
+              ]
+            },
+            {
+              "name": "SEMESTER 3",
+              "courses": [
+                "Professional Writing",
+                "Introduction to Statistics",
+                "Introduction to Critical Thinking"
+              ]
+            }
+          ],
+          "elective_courses": [
+            "Introduction to Construction",
+            "Introduction to Development",
+            "Introduction to Environmental Design",
+            "Introduction to Quantity Surveying",
+            "Introduction to Multimedia",
+            "Introduction to Business Law",
+            "Applied Mathematics I"
+          ]
+        }
+      }
+    },
+    {
+      "programme": {
+        "name": "Foundation In Science",
+        "code": "R2/010/3/0125A",
+        "accreditation": "(MQA/FA3076)",
+        "duration": "3/28",
+        "overview": "To furnish the students with the fundamental knowledge and analytical skills in Science, and enable them to undertake Bachelor degree programmes in the fields of Science and Technology. To inculcate good communication, leadership and social skills as well as high ethical attitude.",
+        "learning_outcomes": [
+          "To gain the mastery of the fundamental knowledge in the essential Pre-University level areas of Mathematics and Science.",
+          "To be armed with the capability of applying the fundamental knowledge gained in solving elementary Pre-University level problems in the areas of Mathematics and Science and to be equipped with basic skills to conduct Science laboratory experiments at Pre-University Levels.",
+          "To think rationally, have sense of humanity, humility and responsibility and respect of society at large.",
+          "To learn that the quality and nature of coursework submitted must reflect the true level of maturity and demands of the subjects for the programme and to learn that the unethical conduct of plagiarism is prohibited in the academia.",
+          "To learn effective written and verbal communication skills as well as the development of teamwork spirit.",
+          "To be armed with scientific reasoning and critical analysis skills to solve scientific problems across 4 major fields in Science: Mathematics, Biology, Physics and Chemistry.",
+          "To be equipped with necessary knowledge to pursue Bachelor’s degree.",
+          "To gain time management skills essential for ensuring tasks are completed in time."
+        ],
+        "entry_requirements": [
+          "Pass SPM/O-level equivalent with FIVE (5) Grade C’s including Mathematics and one (1) Science subject (Physics or Chemistry); or",
+          "Pass UEC with THREE (3) Grade B’s including Mathematics and one (1) Science subject (Physics or Chemistry)"
+        ],
+        "structure": {
+          "semesters": [
+            {
+              "name": "SEMESTER 1",
+              "courses": [
+                "Mathematics I",
+                "Physics I",
+                "Chemistry I",
+                "English I",
+                "Introduction to Critical Thinking",
+                "Event Management"
+              ]
+            },
+            {
+              "name": "SEMESTER 2",
+              "courses": [
+                "Mathematics II",
+                "Physics II",
+                "Chemistry II",
+                "English II",
+                "Physics Laboratory",
+                "Chemistry Laboratory",
+                "Elective Course*"
+              ]
+            },
+            {
+              "name": "SEMESTER 3",
+              "courses": [
+                "Mathematics III",
+                "Physics III",
+                "Computing"
+              ]
+            }
+          ],
+          "elective_courses": [
+            "Biology",
+            "Statics",
+            "Dynamics"
+          ]
+        }
+      },
+      "tuition_fees": {
+        "malaysian_students": {
+          "foundation_in_science": "RM10,000 per year",
+          "foundation_in_arts": "RM10,000 per year",
+          "scholarship": "Full scholarship to cover the tuition fees for the Foundation Programmes are available for qualified Malaysian students (subject to terms and conditions)."
+        },
+        "international_students": {
+          "foundation_in_science": "RM13,000 per year",
+          "foundation_in_arts": "RM13,000 per year",
+          "note": "Actual fees per year will be based on credits taken by students. Figures shown above (estimation only) are based on Currency Exchange Rate: USD1 ≈ RM4."
+        }
+      },
+      "publications": [
+        {
+          "title": "The Event Management Go-to Book",
+          "contributors": ["Holling N.", "Rani M.A.A.", "Beruin E.", "Muniam R.", "Ali M.S.A."],
+          "publisher": "UTS Publisher",
+          "ISBN": "978-629-97288-1-8",
+          "length": "135 pages",
+          "description": "A book written for freshman-year students. The book contains a brief explanation of the rules of management and templates to start their event-organizing journey. There are practical tips for people and resource management, as well as tips for effective communication. The tutorial section provides structured and guided activities to conduct an event, useful for both students and trainers. By promoting structure-function relationships, the book hopes to alleviate anxiety associated with event planning."
+        },
+        {
+          "title": "List of Formulae and Tables",
+          "description": "The book contains commonly used formulas in science courses, making it suitable for Foundation in Science (FIS) students. This is a convenient study tool because the formulas and tables can be accessed easily."
+        }
+      ]
+    },
+    {
+      "publications": {
+        "2022": [
+          {
+            "title": "Pilot-scale co-processing of lignocellulosic biomass, algae, shellfish waste via thermochemical approach: Recent progress and future directions",
+            "authors": ["Yek, P. N. Y.", "Wan Mahari, W. A.", "Kong, S. H.", "Foong, S. Y.", "Peng, W.", "Ting, H.", "Liew, R. K.", "Xia, C.", "Sonne, C.", "Tabatabaei, M.", "Almomani, F.", "Aghbashlo, M.", "& Lam, S. S."],
+            "journal": "Bioresource Technology",
+            "volume": "347",
+            "pages": "126687",
+            "DOI": "https://doi.org/10.1016/J.BIORTECH.2022.126687"
+          },
+          {
+            "title": "A Preliminary Study on The Factors Affecting Academic Performance of Foundation Students During Online Learning",
+            "authors": ["Agnes Ayang", "& Nadia Richard."],
+            "journal": "Malaysian Journal of Social Sciences and Humanities (MJSSH)",
+            "volume": "7",
+            "issue": "4",
+            "article_number": "e001409",
+            "DOI": "https://doi.org/10.47405/mjssh.v7i4.1409"
+          },
+          {
+            "title": "Progression of recombinant cellulolytic and ethanologenic escherichia coli for production of bioethanol: A Review",
+            "authors": ["Holling, N.", "& Siew, H. L."],
+            "journal": "Borneo Journal of Sciences and Technology",
+            "DOI": "https://doi.org/10.35370/bjost.2022.4.2-12"
+          },
+          {
+            "title": "Development of the Modified Corporate Philanthropy Disclosure Index for Malaysian Public Listed Companies",
+            "authors": ["Mohamed Yusuf, N. R.", "Joseph, C.", "& Rachel Beruin, E."],
+            "journal": "International Journal of Academic Research in Business and Social Sciences",
+            "volume": "12",
+            "issue": "6",
+            "DOI": "https://doi.org/10.6007/ijarbss/v12-i6/13854"
+          },
+          {
+            "title": "Phototactic Motion with Arduino: A Teaching Instrument Prototype to Demonstrate Interdisciplinary Concepts in STEM-related Courses",
+            "authors": ["Nabella Holling", "& Muhammad Afif"],
+            "journal": "BORNEO JOURNAL OF SCIENCES AND TECHNOLOGY (BJoST)",
+            "volume": "05",
+            "issue": "01",
+            "pages": "01–09",
+            "DOI": "https://doi.org/10.35370/bjost.2023.5.1-01"
+          }
+        ],
+        "conference_proceeding": [
+          {
+            "title": "Measuring Angular Displacement as Base Quantity Using Raspberry Pi Microcomputer for Rotational Motion Experiments",
+            "authors": ["Nabella H. Muhd Afif Abd Rani", "Esther Rachel B. Rafiq Tamin"],
+            "URL": "https://heyzine.com/flip-book/5d3966f708.html#page/218"
+          }
+        ],
+        "2021": [
+          {
+            "title": "Progress in the torrefaction technology for upgrading oil palm wastes to energy-dense biochar: A review",
+            "authors": ["Yek, P. N. Y.", "Cheng, Y. W.", "Liew, R. K.", "Wan Mahari, W. A.", "Ong, H. C.", "Chen, W. H.", "Peng, W.", "Park, Y. K.", "Sonne, C.", "Kong, S. H.", "Tabatabaei, M.", "Aghbashlo, M.", "& Lam, S. S."],
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "volume": "151",
+            "pages": "111645",
+            "DOI": "https://doi.org/10.1016/J.RSER.2021.111645"
+          },
+          {
+            "title": "Temperature effect on structural and optical characteristics of solution-processed polytriarylamine (PTAA) thin films for optoelectronic applications",
+            "authors": ["Abdul Rani, Abd Rani, M. A.", "Iderus, S.", "Osman, M. S.", "Yusop, N.", "Pien, C. F.", "& Rasmidi, R."],
+            "journal": "ASM Science Journal",
+            "volume": "16",
+            "pages": "1–6",
+            "DOI": "https://doi.org/10.32802/asmscj.2021.813"
+          },
+          {
+            "title": "Exploring English language reading habits of university foundation students",
+            "authors": ["Ling, J. P. W.", "& Ong, S. L."],
+            "journal": "Borneo Journal of Social Science and Humanities",
+            "volume": "3",
+            "issue": "2",
+            "pages": "53-65",
+            "publisher": "UTS Publisher",
+            "DOI": "10.35370/bjssh.2021.3.2-05"
+          }
+        ],
+        "2020": [
+          {
+            "title": "Microwave wet torrefaction: A catalytic process to convert waste palm shell into porous biochar",
+            "authors": ["Yek, P. N. Y.", "Osman, M. S.", "Wong, C. C.", "Wong, C. S.", "Kong, S. H.", "Sie, T. S.", "Foong, S. Y.", "Lam, S. S.", "& Liew, R. K."],
+            "journal": "Materials Science for Energy Technologies",
+            "volume": "3",
+            "pages": "742–747",
+            "DOI": "https://doi.org/10.1016/J.MSET.2020.08.004"
+          },
+          {
+            "title": "Low-cost educational robotics car promotes STEM learning and 21stcentury skills",
+            "authors": ["Ong, S. L.", "& Ling, J. P. W."],
+            "proceedings": "2020 IEEE International Conference on Teaching, Assessment, and Learning for Engineering, TALE 2020",
+            "pages": "467–473",
+            "DOI": "https://doi.org/10.1109/TALE48869.2020.9368487"
+          },
+          {
+            "title": "Factors Influencing Pre-University Students’ Interests towards STEM Programs and Careers",
+            "authors": ["Ong, S. L.", "& Ling, J. P. W."],
+            "proceedings": "IEEE Region 10 Humanitarian Technology Conference, R10-HTC, 2020-December",
+            "DOI": "https://doi.org/10.1109/R10-HTC49770.2020.9357019"
+          }
+        ]
+      },
+      "competition": {
+        "title": "The first ITEX participation & medal award obtained by the School of Foundation Studies",
+        "description": "The winning at ITEX 2022, was a result of collaborative roles played by each team members. The effort to ensure laboratory practical session resembling a face-to-face session during the pandemic had resulted in the completion of Adaptive Physics Laboratory Setups (APLS) project.",
+        "project_leader": "Nabella Holling"
+      }
+    },
+    {
+      "school": {
+        "name": "School of Engineering and Technology",
+        "established_date": "1 April 2013",
+        "description": "SET is one of the pioneer schools established together with the establishment of UTS. It is also the biggest school within UTS. The school currently offers undergraduate and postgraduate programmes.",
+        "undergraduate_programmes": [
+          "Bachelor of Civil Engineering (Hons)",
+          "Bachelor of Mechanical Engineering (Hons)",
+          "Bachelor of Electrical Engineering (Honours)",
+          "Bachelor of Food Technology (Hons)",
+          "Bachelor of Science in Occupational Safety and Health (Honours)"
+        ],
+        "postgraduate_programmes": [
+          "Master in Engineering",
+          "Master of Science in Applied Science",
+          "Doctor of Philosophy (PhD) in Engineering",
+          "Doctor of Philosophy (PhD) in Applied Sciences"
+        ],
+        "buildings": 5,
+        "announcements": [
+          "School of Engineering and Technology upcoming new programme named 'Bachelor of Science in Occupational Safety and Health (Honours) offer in February 2023/2024, Semester 2 is open for registration.",
+          "School of Engineering and Technology (SET) provide professional repair service of vintage parts under governance of SET and CRiSD by practising pending utility innovation intellectual property (UI2023004077) registered with MyIPO."
+        ]
+      },
+      "staff": [
+        {
+          "name": "Assoc. Prof. Ts. Dr. Dayang Siti Hazimmah",
+          "position": "Dean and Associate Professor",
+          "extension": "543",
+          "email": "siti.hazimmah",
+          "qualifications": "PhD. Civil Engineering in Construction Materials (UMP), MSc. in Materials Engineering (USM), B. Eng. in Materials Engineering (USM)"
+        },
+        {
+          "name": "Ts. Dr. Samat bin Iderus",
+          "position": "Deputy Dean and Senior Lecturer",
+          "extension": "508",
+          "email": "samat.iderus",
+          "qualifications": "PhD in Engineering (UTS), Master of Electrical Engineering (UTHM), Bachelor in Electrical Engineering (Honours) (UTHM)"
+        },
+        {
+          "name": "Dr. Sebastian Dayou",
+          "position": "Head of Programme for Mechanical Engineering and Senior Lecturer",
+          "extension": "503",
+          "email": "sebastian",
+          "qualifications": "PhD in Nanoscience and Technology (USM), MEng in Mechanical Engineering (USM), B. Eng. in Mechanical-Materials (UTM)"
+        },
+        {
+          "name": "Dr. Mastura binti Bujang",
+          "position": "Head of programme for Civil Engineering and Senior Lecturer",
+          "extension": "510",
+          "email": "mastura.bujang",
+          "qualifications": "PhD Civil Engineering in Highway & Transportation (UTM), Bachelor in Civil Engineering (UTM)"
+        },
+        {
+          "name": "Ts. Nuramalina binti Bohari",
+          "position": "Head of programme for Electrical Engineering and Lecturer",
+          "extension": "504",
+          "email": "nuramalina",
+          "qualifications": "Master of Engineering in Electronics (UNIMAS), Bachelor of Electronics and Telecommunication Engineering (UNIMAS)"
+        },
+        {
+          "name": "Mohd Syafiq bin Abdullah",
+          "position": "Head of Programme for Food Technology and Lecturer",
+          "extension": "507",
+          "email": "mohdsyafiq",
+          "qualifications": "Bac in Food Science & Technology, UiTM, Master in Food Science, University Malaysia Terengganu"
+        },
+        {
+          "name": "Dr. Zalikha binti Raman",
+          "position": "Head of Programme for Occupational Safety and Health and Lecturer",
+          "extension": "536",
+          "email": "zalikha",
+          "qualifications": "Degree in Medicine (IM Sechenov First Moscow State Medical University, Rusia), Master of Science, Safety and Environment (UTM)"
+        },
+        {
+          "name": "Dr. Irina Wong Ming Ming",
+          "position": "SET postgraduate programmes coordinator and Lecturer",
+          "extension": "471",
+          "email": "dririna",
+          "qualifications": "PhD in Manufacturing Engineering (UNIMAP), B. Eng in Mechanical Eng.(UNIMAP)"
+        },
+        {
+          "name": "Amira Farhana bt Mohamad Tar",
+          "position": "FYP coordinator and Senior Lecturer",
+          "extension": "555",
+          "email": "amirafarhana",
+          "qualifications": "Master of Science in Manufacturing Engineering (UTeM)"
+        },
+        {
+          "name": "Tiong Tung Chuan",
+          "position": "Industrial Training coordinator and Senior Lecturer",
+          "extension": "532",
+          "email": "tiongtungchuan",
+          "qualifications": "MSc. Electronics (Queen Uni. Belfast), Adv. Dip. in Technology (TARC), Dip. Technology, Electronic Engineering (TARC)"
+        },
+        {
+          "name": "Ts. Abdul Ismail Abdul Rani",
+          "position": "SET marketing & event coordinator and Lecturer",
+          "extension": "572",
+          "email": "abdulismail",
+          "qualifications": "M.Eng in Electrical & Electronic Engineering (UMS), B.Sc in Physics with Electronics (UMS)"
+        },
+        {
+          "name": "Dr. Zalikha binti Raman",
+          "position": "Safety, Health and Environment Officer and Lecturer",
+          "extension": "536",
+          "email": "zalikha",
+          "qualifications": "Degree in Medicine, IM Sechenov First Moscow State Medical University, Russia, Master of Science, Safety, Health and Environment, UTM"
+        },
+        {
+          "name": "Mohamad Saiful bin Sulaiman",
+          "position": "E-learning coordinator and Lecturer",
+          "extension": "569",
+          "email": "saiful.sulaiman",
+          "qualifications": "Degree of Applied Science in Bio Composite Technology, UiTM, Master of Science in Natural Resources Management, University Malaysia Kelantan"
+        }
+      ]
+    },
+    {
+      "school_name": "SCHOOL OF BUSINESS & MANAGEMENT",
+      "description": "A degree in business administration can help you develop leadership skills. Not only do you learn the fundamentals of business including finance, operations, human resources, marketing, and management, but you learn how to lead and motivate people, communicate effectively, and think critically.",
+      "why_choose_us": [
+        "A Good Introduction to the Realities of Business.",
+        "Become a More Effective Leader, Team Player, and Interpersonal Communicator.",
+        "Learn How to Effectively Manage People.",
+        "Gain a Competitive Edge.",
+        "A Variety of Excellent Career Opportunities."
+      ],
+      "programmes": {
+        "undergraduate": [
+          {
+            "name": "Bachelor Of Business Administration (Hons)",
+            "accreditation": "[N/345/6/0358] [6/18] [MQA/FA3077]"
+          },
+          {
+            "name": "Bachelor Of Accountancy (Honours)",
+            "accreditation": "[N/344/6/0326] [9/19] [MQA/FA4790]"
+          },
+          {
+            "name": "Bachelor Of Business (Hons) In Marketing",
+            "accreditation": "[N/342/6/0199] [5/22] [MQA/PA 8731]"
+          },
+          {
+            "name": "Bachelor Of Technology Management (Honours)",
+            "accreditation": "[N/345/6/1085] [MQA/PA 10874]"
+          }
+        ],
+        "postgraduate": [
+          {
+            "name": "Master of Business Administration",
+            "accreditation": "[N/340/7/0588] [8/20] [MQA/FA6146]"
+          },
+          {
+            "name": "Master of Project Management",
+            "accreditation": "[N/345/7/1060] [6/22] [MQA/PA8730]"
+          },
+          {
+            "name": "Master of Science in Business Management",
+            "accreditation": "[N/345/7/0842] [8/20] [MQA/PA7420]"
+          },
+          {
+            "name": "Doctor of Philosophy (PhD) in Business Management",
+            "accreditation": "[N/345/8/0843] [8/20] [MQA/PA7421]"
+          }
+        ],
+        "non_formal_entry": {
+          "title": "Accreditation Of Prior Experiential Learning (APEL)",
+          "description": "UTS also welcomes applications from persons of at least 30 years of age who do not qualify for admission on the basis of formal educational attainment through Non-formal Entry via APEL"
+        }
+      }
+    },
+    {
+      "school_name": "School of Computing and Creative Media",
+      "description": "A significant milestone was recently achieved in the development of our school with a broader and more encompassing roles and objectives. Recognizing the importance of seamlessly interweaving form and function in today’s consumerized world, our aptly renamed School of Computing and Creative Media (SCM) underscores the integral role that design and media plays in delivering a user experience that can make or break a company’s/organization’s products and services. First established in June 2014, our school was founded to address the rapidly changing demands of the new industrial landscape by offering a teaching-and-learning experience that can help equip today’s and tomorrow’s professionals with sufficient depth and breadth of technical and management skills. Our programmes’ philosophy focuses on equipping students with the fundamental knowledge and thinking skills to “learning how to learn”, rather than just the ability to gain and regurgitate knowledge.",
+      "undergraduate_programmes": [
+        {
+          "name": "Bachelor of Computer Science (Hons)"
+        },
+        {
+          "name": "Bachelor of Arts in Industrial Design (Hons)"
+        },
+        {
+          "name": "Bachelor of Arts (Honours) in Creative Digital Media"
+        },
+        {
+          "name": "Bachelor of Mobile Game Development (Honours)"
+        }
+      ],
+      "postgraduate_programmes": [
+        {
+          "name": "Master in Computing",
+          "accreditation": "[N/481/7/0815] [MQA/PA 12389]"
+        },
+        {
+          "name": "PhD in Computing",
+          "accreditation": "[N/481/8/0789] [MQA/PA 12390]"
+        }
+      ],
+      "staff": [
+        {
+          "name": "Assoc. Prof. Ts. Dr. Alan Ting Huong Yong",
+          "position": "Dean",
+          "phone": "084-367546",
+          "email": "alan.ting"
+        },
+        {
+          "name": "Dr. Yiiong Siew Ping",
+          "position": "Deputy Dean",
+          "phone": "084-367561",
+          "email": "siew.ping"
+        },
+        {
+          "name": "Ts. Dr. Chew Kim Mey",
+          "position": "Head of Programme, Bachelor of Computer Science (Hons.)",
+          "phone": "084-367427",
+          "email": "chew.kim.mey"
+        },
+        {
+          "name": "Ts. Ahmad Lutfee Bin Mohd Lasa, CIDe",
+          "position": "Head of Programme, Bachelor of Arts in Industrial Design (Honours)",
+          "phone": "084-367417",
+          "email": "lutfee"
+        },
+        {
+          "name": "Mohamad Suffian Bin Abdul Kadir",
+          "position": "Head of Programme, Bachelor of Arts(Hons.) in Creative Digital Media",
+          "phone": "084-367435",
+          "email": "mohd.suffian"
+        },
+        {
+          "name": "Ts. Jackie Ting Tiew Wei",
+          "position": "Head of Programme, Bachelor of Mobile Game Development(Honours)",
+          "phone": "084-367515",
+          "email": "jackie"
+        },
+        {
+          "name": "Dr. Tariq Zaman",
+          "position": "Head of ASSET/Programme Coordinator, Master in Computing and PhD in Computing/Associate Professor",
+          "phone": "084-367520",
+          "email": "tariqzaman"
+        },
+        {
+          "name": "Dr. Muhammad Firdaus Abong Abdullah",
+          "position": "Director, UTS Publication Unit/Associate Professor",
+          "phone": "084-367529",
+          "email": "muhammad.firdaus"
+        },
+        {
+          "name": "Ts. Gary Loh Chee Wyai",
+          "position": "Senior Lecturer / Director, CIR",
+          "phone": "084-367523",
+          "email": "gary"
+        },
+        {
+          "name": "Chang Wui Lee",
+          "position": "Lecturer",
+          "phone": "084-367437",
+          "email": "wui.lee"
+        },
+        {
+          "name": "Eileen Ong Sing Ling",
+          "position": "Senior Lecturer",
+          "phone": "084-367560",
+          "email": "eileenong"
+        },
+        {
+          "name": "Marcella Peter",
+          "position": "Lecturer",
+          "phone": "084-367556",
+          "email": "marcella"
+        },
+        {
+          "name": "Ts. Daniel Tan Yong Wen",
+          "position": "Senior Lecturer/Director of DRAC",
+          "phone": "084-367432",
+          "email": "danieltan"
+        },
+        {
+          "name": "Khairunnisa Binti Ibrahim",
+          "position": "Lecturer",
+          "phone": "084-367518",
+          "email": "khairunnisa.ibrahim"
+        },
+        {
+          "name": "Dr. Michael Tang Chi Seng",
+          "position": "Lecturer",
+          "phone": "084-367474",
+          "email": "michaeltang"
+        },
+        {
+          "name": "Barbara Anak Dieo",
+          "position": "Lecturer",
+          "phone": "084-367513",
+          "email": "barbara"
+        },
+        {
+          "name": "Khatijah Binti Hanapi",
+          "position": "Lecturer",
+          "phone": "084-367521",
+          "email": "khatijah"
+        },
+        {
+          "name": "Cherry Ling Yieng Siang",
+          "position": "Lecturer",
+          "phone": "084-367433",
+          "email": "cherryling"
+        },
+        {
+          "name": "Ts. Muhammad Huzail bin Hasbullah",
+          "position": "Lecturer",
+          "phone": "-",
+          "email": "huzail"
+        },
+        {
+          "name": "Ts. Vanden Michael",
+          "position": "Lecturer",
+          "phone": "084-367517",
+          "email": "vanden"
+        },
+        {
+          "name": "Nur Atiqah Binti Zaini",
+          "position": "Lecturer",
+          "phone": "084-367428",
+          "email": "nuratiqah"
+        },
+        {
+          "name": "Jaibi Bin Sabian",
+          "position": "Lecturer",
+          "phone": "084-367477",
+          "email": "jaibi"
+        },
+        {
+          "name": "Hasrunnaim Bin Hasan",
+          "position": "Lecturer",
+          "phone": "084-367423",
+          "email": "hasrunnaim"
+        },
+        {
+          "name": "Nurnazifah Binti Manshor",
+          "position": "Lecturer",
+          "phone": "-",
+          "email": "nurnazifah"
+      }
+      ],
+      "administrative_staff": [
+      {
+      "name": "Khairunnisa Binti Ramli",
+      "position": "Executive",
+      "phone": "084-367547",
+      "email": "khairunnisaramli"
+      },
+      {
+      "name": "Salmia Binti Anuar",
+      "position": "Clerk",
+      "phone": "084-367548",
+      "email": "salmia"
+      },
+      {
+      "name": "Muhammad Asraf Bin Zulkarnain",
+      "position": "Senior Laboratory Technician",
+      "phone": "-",
+      "email": "muhd.asraf"
+      }
+      ]
+      },
+      {
+          "school_name": "School of Built Environment (SBE)",
+          "dean": {
+            "name": "Dr. Kan Fock Kui",
+            "title": "Certified Construction Manager, Professional Quantity Surveyor, Chartered Surveyor",
+            "position": "Dean & Senior Lecturer"
+          },
+          "undergraduate_programmes": [
+            "Bachelor of Science in Architecture (Hons)",
+            "Bachelor of Quantity Surveying (Hons)",
+            "Bachelor of Art (Hons) Interior Design",
+            "Bachelor of Property & Construction Management"
+          ],
+          "postgraduate_programmes": [
+            "Master of Architecture",
+            "Master of Science in Construction Management"
+          ],
+          "team": {
+            "academic_staff": [
+              {
+                "name": "DR. ANDY WONG CHIH SIONG",
+                "position": "Deputy Dean & Senior Lecturer"
+              },
+              {
+                "name": "MUHAMMAD OLIVER ENSOR SILINI",
+                "position": "Head of Programme & Senior Lecturer"
+              },
+              {
+                "name": "TS. PRESCILLA ANAK PALIS",
+                "position": "Head of Programme & Lecturer"
+              },
+              {
+                "name": "IDr. ANNIE JAID PARKER",
+                "position": "Head of Programme & Senior Lecturer"
+              },
+              {
+                "name": "THAH LIENG HIN",
+                "position": "Head of Programme & Lecturer"
+              },
+              {
+                "name": "AIMI FARHANA GHAZALI",
+                "position": "Master Coordinator & Senior Lecturer"
+              },
+              {
+                "name": "ESTHER WONG SIAW WEI",
+                "position": "Master Coordinator & Lecturer"
+              },
+              {
+                "name": "DR. SR. ABDUL GHANI KHALID",
+                "position": "Professor"
+              },
+              {
+                "name": "DR. SR. WAN NOR AZRIYATI",
+                "position": "Professor"
+              },
+              {
+                "name": "SR. DR. DING CHU SHENG",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "DR. WONG SING SING",
+                "position": "Associate Professor"
+              },
+              {
+                "name": "AR. HJ. MUSTAPHA BIN MOHD SALLEH",
+                "position": "Adjunct Professor"
+              },
+              {
+                "name": "AR. IDr. SAMUEL LEE CHEE ZIN",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "SR. WONG CHII NGUONG",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "AR. BRENDAN TONG JIA CHIAN",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "DR. SANJEH KUMAR A/L RAMAN",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "SR. KONG SIO KAH",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "DR. WONG SHI YEE",
+                "position": "Lecturer"
+              },
+              {
+                "name": "DR. TAN YU TIAN",
+                "position": "Lecturer"
+              },
+              {
+                "name": "SR. MOHD FAUZEE BIN MUSA",
+                "position": "Lecturer"
+              },
+              {
+                "name": "CHIENG TIONG KOH",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "WONG LIN SZE",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "WONG JING JING",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "MUHAMMAD ARIFF MAT SARUAN",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "JASPER LING THIEN JIN",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "ANGELA TING MEE YII",
+                "position": "Senior Lecturer"
+              },
+              {
+                "name": "IDr. DENIS CHONG KUOK LEONG",
+                "position": "Lecturer"
+              },
+              {
+                "name": "IDr. Ts. IZATUL SYIMA BINTI ABDUL RAHMAN",
+                "position": "Lecturer"
+              },
+              {
+                "name": "MAGDALEN PETRUS",
+                "position": "Lecturer"
+              },
+              {
+                "name": "RAHMAT MORIAT",
+                "position": "Lecturer"
+              },
+              {
+                "name": "STEPHANIE STELLA DAWI",
+                "position": "Lecturer"
+              },
+              {
+                "name": "AARON CHEW WEI LI",
+                "position": "Lecturer"
+              },
+              {
+                "name": "TIMOTHY IGAT MAURICE",
+                "position": "Lecturer"
+              },
+              {
+                "name": "TS. NAJIHAH OMAR",
+                "position": "Lecturer"
+              },
+              {
+                "name": "FAISAL BIN TAMRULAN",
+                "position": "Lecturer"
+              },
+              {
+                "name": "TS. MUHAMAD AFDHAL BIN MOHD MAAROF",
+                "position": "Lecturer"
+              },
+              {
+                "name": "NAJIHAH BINTI NASHARUDIN",
+                "position": "Lecturer"
+              },
+              {
+                "name": "NOOR HAZWANI BINTI ALIAS",
+                "position": "Lecturer"
+              },
+              {
+                "name": "KHAIRUL NAZLI BIN RAZALI",
+                "position": "Lecturer"
+              },
+              {
+                "name": "RAJA SITI NADIEL'LAH BINTI RAJA ABU BAKAR",
+                "position": "Lecturer"
+              },
+              {
+                  "name": "NUR FASIHAH BINTI NGAH SERON",
+                  "position": "Lecturer"
+                },
+                {
+                  "name": "AIN-NIN SOFIA BINTI MOHAMAD SAMSANI",
+                  "position": "Lecturer"
+                },
+                {
+                  "name": "NURUL EZZATY BINTI SUHAIMI",
+                  "position": "Lecturer"
+                },
+                {
+                  "name": "NURANIS AMIRA BINTI YUSSOF",
+                  "position": "Assistant Lecturer"
+                }
+                ],
+                "administrative_staff": [
+                {
+                  "name": "SULAIMAN BIN AZMAN",
+                  "position": "Research Officer (Research Centre for Borneo Regionalism and Conservation)"
+                },
+                {
+                  "name": "NURFAIRUZ ANUAR",
+                  "position": "Executive"
+                },
+                {
+                  "name": "NURAZILA ATASHA",
+                  "position": "Administrative Officer"
+                },
+                {
+                  "name": "FATIN HAMIDAH WAFAA HELEMY",
+                  "position": "Clerk"
+                }
+                ],
+                "technical_staff": [
+                {
+                  "name": "NAZIR MOHAMED ZUBIR",
+                  "position": "Senior Technician"
+                },
+                {
+                  "name": "MUHAMMAD AL MUBARAQ DZALMIRA",
+                  "position": "Assistant Lab Technician"
+                }
+              ]
+          }
+      }
+]
+ 
+
